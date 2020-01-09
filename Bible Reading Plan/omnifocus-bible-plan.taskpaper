@@ -1,0 +1,2349 @@
+- bible-plan @parallel(true) @autodone(true)
+  - Genesis 1 @defer(2020-01-01) @due(2020-01-01)
+    https://www.bible.com/bible/111/GEN.1.NIV
+  - Genesis 2 @defer(2020-01-01) @due(2020-01-01)
+    https://www.bible.com/bible/111/GEN.2.NIV
+  - Genesis 3 @defer(2020-01-01) @due(2020-01-01)
+    https://www.bible.com/bible/111/GEN.3.NIV
+  - Matthew 1 @defer(2020-01-01) @due(2020-01-01)
+    https://www.bible.com/bible/111/MAT.1.NIV
+  - Genesis 4 @defer(2020-01-02) @due(2020-01-02)
+    https://www.bible.com/bible/111/GEN.4.NIV
+  - Genesis 5 @defer(2020-01-02) @due(2020-01-02)
+    https://www.bible.com/bible/111/GEN.5.NIV
+  - Genesis 6 @defer(2020-01-02) @due(2020-01-02)
+    https://www.bible.com/bible/111/GEN.6.NIV
+  - Matthew 2 @defer(2020-01-02) @due(2020-01-02)
+    https://www.bible.com/bible/111/MAT.2.NIV
+  - Genesis 7 @defer(2020-01-03) @due(2020-01-03)
+    https://www.bible.com/bible/111/GEN.7.NIV
+  - Genesis 8 @defer(2020-01-03) @due(2020-01-03)
+    https://www.bible.com/bible/111/GEN.8.NIV
+  - Genesis 9 @defer(2020-01-03) @due(2020-01-03)
+    https://www.bible.com/bible/111/GEN.9.NIV
+  - Matthew 3 @defer(2020-01-03) @due(2020-01-03)
+    https://www.bible.com/bible/111/MAT.3.NIV
+  - Genesis 10 @defer(2020-01-04) @due(2020-01-04)
+    https://www.bible.com/bible/111/GEN.10.NIV
+  - Genesis 11 @defer(2020-01-04) @due(2020-01-04)
+    https://www.bible.com/bible/111/GEN.11.NIV
+  - Genesis 12 @defer(2020-01-04) @due(2020-01-04)
+    https://www.bible.com/bible/111/GEN.12.NIV
+  - Matthew 4 @defer(2020-01-04) @due(2020-01-04)
+    https://www.bible.com/bible/111/MAT.4.NIV
+  - Genesis 13 @defer(2020-01-05) @due(2020-01-05)
+    https://www.bible.com/bible/111/GEN.13.NIV
+  - Genesis 14 @defer(2020-01-05) @due(2020-01-05)
+    https://www.bible.com/bible/111/GEN.14.NIV
+  - Genesis 15 @defer(2020-01-05) @due(2020-01-05)
+    https://www.bible.com/bible/111/GEN.15.NIV
+  - Genesis 16 @defer(2020-01-06) @due(2020-01-06)
+    https://www.bible.com/bible/111/GEN.16.NIV
+  - Genesis 17 @defer(2020-01-06) @due(2020-01-06)
+    https://www.bible.com/bible/111/GEN.17.NIV
+  - Matthew 5 @defer(2020-01-06) @due(2020-01-06)
+    https://www.bible.com/bible/111/MAT.5.NIV
+  - Genesis 18 @defer(2020-01-07) @due(2020-01-07)
+    https://www.bible.com/bible/111/GEN.18.NIV
+  - Genesis 19 @defer(2020-01-07) @due(2020-01-07)
+    https://www.bible.com/bible/111/GEN.19.NIV
+  - Matthew 6 @defer(2020-01-07) @due(2020-01-07)
+    https://www.bible.com/bible/111/MAT.6.NIV
+  - Genesis 20 @defer(2020-01-08) @due(2020-01-08)
+    https://www.bible.com/bible/111/GEN.20.NIV
+  - Genesis 21 @defer(2020-01-08) @due(2020-01-08)
+    https://www.bible.com/bible/111/GEN.21.NIV
+  - Genesis 22 @defer(2020-01-08) @due(2020-01-08)
+    https://www.bible.com/bible/111/GEN.22.NIV
+  - Genesis 23 @defer(2020-01-09) @due(2020-01-09)
+    https://www.bible.com/bible/111/GEN.23.NIV
+  - Genesis 24 @defer(2020-01-09) @due(2020-01-09)
+    https://www.bible.com/bible/111/GEN.24.NIV
+  - Matthew 7 @defer(2020-01-09) @due(2020-01-09)
+    https://www.bible.com/bible/111/MAT.7.NIV
+  - Genesis 25 @defer(2020-01-10) @due(2020-01-10)
+    https://www.bible.com/bible/111/GEN.25.NIV
+  - Genesis 26 @defer(2020-01-10) @due(2020-01-10)
+    https://www.bible.com/bible/111/GEN.26.NIV
+  - Genesis 27 @defer(2020-01-11) @due(2020-01-11)
+    https://www.bible.com/bible/111/GEN.27.NIV
+  - Genesis 28 @defer(2020-01-11) @due(2020-01-11)
+    https://www.bible.com/bible/111/GEN.28.NIV
+  - Matthew 8 @defer(2020-01-11) @due(2020-01-11)
+    https://www.bible.com/bible/111/MAT.8.NIV
+  - Genesis 29 @defer(2020-01-12) @due(2020-01-12)
+    https://www.bible.com/bible/111/GEN.29.NIV
+  - Genesis 30 @defer(2020-01-12) @due(2020-01-12)
+    https://www.bible.com/bible/111/GEN.30.NIV
+  - Matthew 9 @defer(2020-01-12) @due(2020-01-12)
+    https://www.bible.com/bible/111/MAT.9.NIV
+  - Genesis 31 @defer(2020-01-13) @due(2020-01-13)
+    https://www.bible.com/bible/111/GEN.31.NIV
+  - Genesis 32 @defer(2020-01-13) @due(2020-01-13)
+    https://www.bible.com/bible/111/GEN.32.NIV
+  - Genesis 33 @defer(2020-01-14) @due(2020-01-14)
+    https://www.bible.com/bible/111/GEN.33.NIV
+  - Genesis 34 @defer(2020-01-14) @due(2020-01-14)
+    https://www.bible.com/bible/111/GEN.34.NIV
+  - Genesis 35 @defer(2020-01-14) @due(2020-01-14)
+    https://www.bible.com/bible/111/GEN.35.NIV
+  - Matthew 10 @defer(2020-01-14) @due(2020-01-14)
+    https://www.bible.com/bible/111/MAT.10.NIV
+  - Genesis 36 @defer(2020-01-15) @due(2020-01-15)
+    https://www.bible.com/bible/111/GEN.36.NIV
+  - Genesis 37 @defer(2020-01-15) @due(2020-01-15)
+    https://www.bible.com/bible/111/GEN.37.NIV
+  - Genesis 38 @defer(2020-01-15) @due(2020-01-15)
+    https://www.bible.com/bible/111/GEN.38.NIV
+  - Genesis 39 @defer(2020-01-16) @due(2020-01-16)
+    https://www.bible.com/bible/111/GEN.39.NIV
+  - Genesis 40 @defer(2020-01-16) @due(2020-01-16)
+    https://www.bible.com/bible/111/GEN.40.NIV
+  - Matthew 11 @defer(2020-01-16) @due(2020-01-16)
+    https://www.bible.com/bible/111/MAT.11.NIV
+  - Genesis 41 @defer(2020-01-17) @due(2020-01-17)
+    https://www.bible.com/bible/111/GEN.41.NIV
+  - Genesis 42 @defer(2020-01-17) @due(2020-01-17)
+    https://www.bible.com/bible/111/GEN.42.NIV
+  - Matthew 12 @defer(2020-01-17) @due(2020-01-17)
+    https://www.bible.com/bible/111/MAT.12.NIV
+  - Genesis 43 @defer(2020-01-18) @due(2020-01-18)
+    https://www.bible.com/bible/111/GEN.43.NIV
+  - Genesis 44 @defer(2020-01-18) @due(2020-01-18)
+    https://www.bible.com/bible/111/GEN.44.NIV
+  - Genesis 45 @defer(2020-01-18) @due(2020-01-18)
+    https://www.bible.com/bible/111/GEN.45.NIV
+  - Genesis 46 @defer(2020-01-19) @due(2020-01-19)
+    https://www.bible.com/bible/111/GEN.46.NIV
+  - Genesis 47 @defer(2020-01-19) @due(2020-01-19)
+    https://www.bible.com/bible/111/GEN.47.NIV
+  - Genesis 48 @defer(2020-01-19) @due(2020-01-19)
+    https://www.bible.com/bible/111/GEN.48.NIV
+  - Genesis 49 @defer(2020-01-20) @due(2020-01-20)
+    https://www.bible.com/bible/111/GEN.49.NIV
+  - Genesis 50 @defer(2020-01-20) @due(2020-01-20)
+    https://www.bible.com/bible/111/GEN.50.NIV
+  - Matthew 13 @defer(2020-01-20) @due(2020-01-20)
+    https://www.bible.com/bible/111/MAT.13.NIV
+  - Exodus 1 @defer(2020-01-21) @due(2020-01-21)
+    https://www.bible.com/bible/111/EXO.1.NIV
+  - Exodus 2 @defer(2020-01-21) @due(2020-01-21)
+    https://www.bible.com/bible/111/EXO.2.NIV
+  - Exodus 3 @defer(2020-01-21) @due(2020-01-21)
+    https://www.bible.com/bible/111/EXO.3.NIV
+  - Matthew 14 @defer(2020-01-21) @due(2020-01-21)
+    https://www.bible.com/bible/111/MAT.14.NIV
+  - Exodus 4 @defer(2020-01-22) @due(2020-01-22)
+    https://www.bible.com/bible/111/EXO.4.NIV
+  - Exodus 5 @defer(2020-01-22) @due(2020-01-22)
+    https://www.bible.com/bible/111/EXO.5.NIV
+  - Exodus 6 @defer(2020-01-22) @due(2020-01-22)
+    https://www.bible.com/bible/111/EXO.6.NIV
+  - Exodus 7 @defer(2020-01-23) @due(2020-01-23)
+    https://www.bible.com/bible/111/EXO.7.NIV
+  - Exodus 8 @defer(2020-01-23) @due(2020-01-23)
+    https://www.bible.com/bible/111/EXO.8.NIV
+  - Matthew 15 @defer(2020-01-23) @due(2020-01-23)
+    https://www.bible.com/bible/111/MAT.15.NIV
+  - Exodus 9 @defer(2020-01-24) @due(2020-01-24)
+    https://www.bible.com/bible/111/EXO.9.NIV
+  - Exodus 10 @defer(2020-01-24) @due(2020-01-24)
+    https://www.bible.com/bible/111/EXO.10.NIV
+  - Exodus 11 @defer(2020-01-24) @due(2020-01-24)
+    https://www.bible.com/bible/111/EXO.11.NIV
+  - Exodus 12 @defer(2020-01-25) @due(2020-01-25)
+    https://www.bible.com/bible/111/EXO.12.NIV
+  - Exodus 13 @defer(2020-01-25) @due(2020-01-25)
+    https://www.bible.com/bible/111/EXO.13.NIV
+  - Matthew 16 @defer(2020-01-25) @due(2020-01-25)
+    https://www.bible.com/bible/111/MAT.16.NIV
+  - Exodus 14 @defer(2020-01-26) @due(2020-01-26)
+    https://www.bible.com/bible/111/EXO.14.NIV
+  - Exodus 15 @defer(2020-01-26) @due(2020-01-26)
+    https://www.bible.com/bible/111/EXO.15.NIV
+  - Matthew 17 @defer(2020-01-26) @due(2020-01-26)
+    https://www.bible.com/bible/111/MAT.17.NIV
+  - Exodus 16 @defer(2020-01-27) @due(2020-01-27)
+    https://www.bible.com/bible/111/EXO.16.NIV
+  - Exodus 17 @defer(2020-01-27) @due(2020-01-27)
+    https://www.bible.com/bible/111/EXO.17.NIV
+  - Exodus 18 @defer(2020-01-27) @due(2020-01-27)
+    https://www.bible.com/bible/111/EXO.18.NIV
+  - Exodus 19 @defer(2020-01-28) @due(2020-01-28)
+    https://www.bible.com/bible/111/EXO.19.NIV
+  - Exodus 20 @defer(2020-01-28) @due(2020-01-28)
+    https://www.bible.com/bible/111/EXO.20.NIV
+  - Matthew 18 @defer(2020-01-28) @due(2020-01-28)
+    https://www.bible.com/bible/111/MAT.18.NIV
+  - Exodus 21 @defer(2020-01-29) @due(2020-01-29)
+    https://www.bible.com/bible/111/EXO.21.NIV
+  - Exodus 22 @defer(2020-01-29) @due(2020-01-29)
+    https://www.bible.com/bible/111/EXO.22.NIV
+  - Matthew 19 @defer(2020-01-29) @due(2020-01-29)
+    https://www.bible.com/bible/111/MAT.19.NIV
+  - Exodus 23 @defer(2020-01-30) @due(2020-01-30)
+    https://www.bible.com/bible/111/EXO.23.NIV
+  - Exodus 24 @defer(2020-01-30) @due(2020-01-30)
+    https://www.bible.com/bible/111/EXO.24.NIV
+  - Matthew 20 @defer(2020-01-30) @due(2020-01-30)
+    https://www.bible.com/bible/111/MAT.20.NIV
+  - Exodus 25 @defer(2020-01-31) @due(2020-01-31)
+    https://www.bible.com/bible/111/EXO.25.NIV
+  - Exodus 26 @defer(2020-01-31) @due(2020-01-31)
+    https://www.bible.com/bible/111/EXO.26.NIV
+  - Exodus 27 @defer(2020-02-01) @due(2020-02-01)
+    https://www.bible.com/bible/111/EXO.27.NIV
+  - Exodus 28 @defer(2020-02-01) @due(2020-02-01)
+    https://www.bible.com/bible/111/EXO.28.NIV
+  - Matthew 21 @defer(2020-02-01) @due(2020-02-01)
+    https://www.bible.com/bible/111/MAT.21.NIV
+  - Exodus 29 @defer(2020-02-02) @due(2020-02-02)
+    https://www.bible.com/bible/111/EXO.29.NIV
+  - Exodus 30 @defer(2020-02-02) @due(2020-02-02)
+    https://www.bible.com/bible/111/EXO.30.NIV
+  - Exodus 31 @defer(2020-02-03) @due(2020-02-03)
+    https://www.bible.com/bible/111/EXO.31.NIV
+  - Exodus 32 @defer(2020-02-03) @due(2020-02-03)
+    https://www.bible.com/bible/111/EXO.32.NIV
+  - Exodus 33 @defer(2020-02-03) @due(2020-02-03)
+    https://www.bible.com/bible/111/EXO.33.NIV
+  - Exodus 34 @defer(2020-02-04) @due(2020-02-04)
+    https://www.bible.com/bible/111/EXO.34.NIV
+  - Exodus 35 @defer(2020-02-04) @due(2020-02-04)
+    https://www.bible.com/bible/111/EXO.35.NIV
+  - Matthew 22 @defer(2020-02-04) @due(2020-02-04)
+    https://www.bible.com/bible/111/MAT.22.NIV
+  - Exodus 36 @defer(2020-02-05) @due(2020-02-05)
+    https://www.bible.com/bible/111/EXO.36.NIV
+  - Exodus 37 @defer(2020-02-05) @due(2020-02-05)
+    https://www.bible.com/bible/111/EXO.37.NIV
+  - Exodus 38 @defer(2020-02-05) @due(2020-02-05)
+    https://www.bible.com/bible/111/EXO.38.NIV
+  - Exodus 39 @defer(2020-02-06) @due(2020-02-06)
+    https://www.bible.com/bible/111/EXO.39.NIV
+  - Exodus 40 @defer(2020-02-06) @due(2020-02-06)
+    https://www.bible.com/bible/111/EXO.40.NIV
+  - Matthew 23 @defer(2020-02-06) @due(2020-02-06)
+    https://www.bible.com/bible/111/MAT.23.NIV
+  - Leviticus 1 @defer(2020-02-07) @due(2020-02-07)
+    https://www.bible.com/bible/111/LEV.1.NIV
+  - Leviticus 2 @defer(2020-02-07) @due(2020-02-07)
+    https://www.bible.com/bible/111/LEV.2.NIV
+  - Leviticus 3 @defer(2020-02-07) @due(2020-02-07)
+    https://www.bible.com/bible/111/LEV.3.NIV
+  - Leviticus 4 @defer(2020-02-08) @due(2020-02-08)
+    https://www.bible.com/bible/111/LEV.4.NIV
+  - Leviticus 5 @defer(2020-02-08) @due(2020-02-08)
+    https://www.bible.com/bible/111/LEV.5.NIV
+  - Matthew 24 @defer(2020-02-08) @due(2020-02-08)
+    https://www.bible.com/bible/111/MAT.24.NIV
+  - Leviticus 6 @defer(2020-02-09) @due(2020-02-09)
+    https://www.bible.com/bible/111/LEV.6.NIV
+  - Leviticus 7 @defer(2020-02-09) @due(2020-02-09)
+    https://www.bible.com/bible/111/LEV.7.NIV
+  - Matthew 25 @defer(2020-02-09) @due(2020-02-09)
+    https://www.bible.com/bible/111/MAT.25.NIV
+  - Leviticus 8 @defer(2020-02-10) @due(2020-02-10)
+    https://www.bible.com/bible/111/LEV.8.NIV
+  - Leviticus 9 @defer(2020-02-10) @due(2020-02-10)
+    https://www.bible.com/bible/111/LEV.9.NIV
+  - Leviticus 10 @defer(2020-02-10) @due(2020-02-10)
+    https://www.bible.com/bible/111/LEV.10.NIV
+  - Leviticus 11 @defer(2020-02-11) @due(2020-02-11)
+    https://www.bible.com/bible/111/LEV.11.NIV
+  - Leviticus 12 @defer(2020-02-11) @due(2020-02-11)
+    https://www.bible.com/bible/111/LEV.12.NIV
+  - Leviticus 13 @defer(2020-02-12) @due(2020-02-12)
+    https://www.bible.com/bible/111/LEV.13.NIV
+  - Matthew 26 @defer(2020-02-12) @due(2020-02-12)
+    https://www.bible.com/bible/111/MAT.26.NIV
+  - Leviticus 14 @defer(2020-02-13) @due(2020-02-13)
+    https://www.bible.com/bible/111/LEV.14.NIV
+  - Leviticus 15 @defer(2020-02-14) @due(2020-02-14)
+    https://www.bible.com/bible/111/LEV.15.NIV
+  - Leviticus 16 @defer(2020-02-14) @due(2020-02-14)
+    https://www.bible.com/bible/111/LEV.16.NIV
+  - Leviticus 17 @defer(2020-02-15) @due(2020-02-15)
+    https://www.bible.com/bible/111/LEV.17.NIV
+  - Leviticus 18 @defer(2020-02-15) @due(2020-02-15)
+    https://www.bible.com/bible/111/LEV.18.NIV
+  - Matthew 27 @defer(2020-02-15) @due(2020-02-15)
+    https://www.bible.com/bible/111/MAT.27.NIV
+  - Leviticus 19 @defer(2020-02-16) @due(2020-02-16)
+    https://www.bible.com/bible/111/LEV.19.NIV
+  - Leviticus 20 @defer(2020-02-16) @due(2020-02-16)
+    https://www.bible.com/bible/111/LEV.20.NIV
+  - Leviticus 21 @defer(2020-02-17) @due(2020-02-17)
+    https://www.bible.com/bible/111/LEV.21.NIV
+  - Leviticus 22 @defer(2020-02-17) @due(2020-02-17)
+    https://www.bible.com/bible/111/LEV.22.NIV
+  - Matthew 28 @defer(2020-02-17) @due(2020-02-17)
+    https://www.bible.com/bible/111/MAT.28.NIV
+  - Leviticus 23 @defer(2020-02-18) @due(2020-02-18)
+    https://www.bible.com/bible/111/LEV.23.NIV
+  - Leviticus 24 @defer(2020-02-18) @due(2020-02-18)
+    https://www.bible.com/bible/111/LEV.24.NIV
+  - Leviticus 25 @defer(2020-02-19) @due(2020-02-19)
+    https://www.bible.com/bible/111/LEV.25.NIV
+  - Mark 1 @defer(2020-02-19) @due(2020-02-19)
+    https://www.bible.com/bible/111/MRK.1.NIV
+  - Leviticus 26 @defer(2020-02-20) @due(2020-02-20)
+    https://www.bible.com/bible/111/LEV.26.NIV
+  - Leviticus 27 @defer(2020-02-20) @due(2020-02-20)
+    https://www.bible.com/bible/111/LEV.27.NIV
+  - Mark 2 @defer(2020-02-20) @due(2020-02-20)
+    https://www.bible.com/bible/111/MRK.2.NIV
+  - Numbers 1 @defer(2020-02-21) @due(2020-02-21)
+    https://www.bible.com/bible/111/NUM.1.NIV
+  - Numbers 2 @defer(2020-02-21) @due(2020-02-21)
+    https://www.bible.com/bible/111/NUM.2.NIV
+  - Mark 3 @defer(2020-02-21) @due(2020-02-21)
+    https://www.bible.com/bible/111/MRK.3.NIV
+  - Numbers 3 @defer(2020-02-22) @due(2020-02-22)
+    https://www.bible.com/bible/111/NUM.3.NIV
+  - Numbers 4 @defer(2020-02-22) @due(2020-02-22)
+    https://www.bible.com/bible/111/NUM.4.NIV
+  - Numbers 5 @defer(2020-02-23) @due(2020-02-23)
+    https://www.bible.com/bible/111/NUM.5.NIV
+  - Numbers 6 @defer(2020-02-23) @due(2020-02-23)
+    https://www.bible.com/bible/111/NUM.6.NIV
+  - Mark 4 @defer(2020-02-23) @due(2020-02-23)
+    https://www.bible.com/bible/111/MRK.4.NIV
+  - Numbers 7 @defer(2020-02-24) @due(2020-02-24)
+    https://www.bible.com/bible/111/NUM.7.NIV
+  - Numbers 8 @defer(2020-02-24) @due(2020-02-24)
+    https://www.bible.com/bible/111/NUM.8.NIV
+  - Numbers 9 @defer(2020-02-25) @due(2020-02-25)
+    https://www.bible.com/bible/111/NUM.9.NIV
+  - Numbers 10 @defer(2020-02-25) @due(2020-02-25)
+    https://www.bible.com/bible/111/NUM.10.NIV
+  - Numbers 11 @defer(2020-02-25) @due(2020-02-25)
+    https://www.bible.com/bible/111/NUM.11.NIV
+  - Numbers 12 @defer(2020-02-26) @due(2020-02-26)
+    https://www.bible.com/bible/111/NUM.12.NIV
+  - Numbers 13 @defer(2020-02-26) @due(2020-02-26)
+    https://www.bible.com/bible/111/NUM.13.NIV
+  - Numbers 14 @defer(2020-02-26) @due(2020-02-26)
+    https://www.bible.com/bible/111/NUM.14.NIV
+  - Mark 5 @defer(2020-02-26) @due(2020-02-26)
+    https://www.bible.com/bible/111/MRK.5.NIV
+  - Numbers 15 @defer(2020-02-27) @due(2020-02-27)
+    https://www.bible.com/bible/111/NUM.15.NIV
+  - Numbers 16 @defer(2020-02-27) @due(2020-02-27)
+    https://www.bible.com/bible/111/NUM.16.NIV
+  - Mark 6 @defer(2020-02-27) @due(2020-02-27)
+    https://www.bible.com/bible/111/MRK.6.NIV
+  - Numbers 17 @defer(2020-02-28) @due(2020-02-28)
+    https://www.bible.com/bible/111/NUM.17.NIV
+  - Numbers 18 @defer(2020-02-28) @due(2020-02-28)
+    https://www.bible.com/bible/111/NUM.18.NIV
+  - Numbers 19 @defer(2020-02-28) @due(2020-02-28)
+    https://www.bible.com/bible/111/NUM.19.NIV
+  - Numbers 20 @defer(2020-03-01) @due(2020-03-01)
+    https://www.bible.com/bible/111/NUM.20.NIV
+  - Numbers 21 @defer(2020-03-01) @due(2020-03-01)
+    https://www.bible.com/bible/111/NUM.21.NIV
+  - Numbers 22 @defer(2020-03-01) @due(2020-03-01)
+    https://www.bible.com/bible/111/NUM.22.NIV
+  - Numbers 23 @defer(2020-03-02) @due(2020-03-02)
+    https://www.bible.com/bible/111/NUM.23.NIV
+  - Numbers 24 @defer(2020-03-02) @due(2020-03-02)
+    https://www.bible.com/bible/111/NUM.24.NIV
+  - Numbers 25 @defer(2020-03-02) @due(2020-03-02)
+    https://www.bible.com/bible/111/NUM.25.NIV
+  - Mark 7 @defer(2020-03-02) @due(2020-03-02)
+    https://www.bible.com/bible/111/MRK.7.NIV
+  - Numbers 26 @defer(2020-03-03) @due(2020-03-03)
+    https://www.bible.com/bible/111/NUM.26.NIV
+  - Numbers 27 @defer(2020-03-03) @due(2020-03-03)
+    https://www.bible.com/bible/111/NUM.27.NIV
+  - Numbers 28 @defer(2020-03-03) @due(2020-03-03)
+    https://www.bible.com/bible/111/NUM.28.NIV
+  - Mark 8 @defer(2020-03-03) @due(2020-03-03)
+    https://www.bible.com/bible/111/MRK.8.NIV
+  - Numbers 29 @defer(2020-03-04) @due(2020-03-04)
+    https://www.bible.com/bible/111/NUM.29.NIV
+  - Numbers 30 @defer(2020-03-04) @due(2020-03-04)
+    https://www.bible.com/bible/111/NUM.30.NIV
+  - Numbers 31 @defer(2020-03-04) @due(2020-03-04)
+    https://www.bible.com/bible/111/NUM.31.NIV
+  - Mark 9 @defer(2020-03-04) @due(2020-03-04)
+    https://www.bible.com/bible/111/MRK.9.NIV
+  - Numbers 32 @defer(2020-03-05) @due(2020-03-05)
+    https://www.bible.com/bible/111/NUM.32.NIV
+  - Numbers 33 @defer(2020-03-05) @due(2020-03-05)
+    https://www.bible.com/bible/111/NUM.33.NIV
+  - Numbers 34 @defer(2020-03-05) @due(2020-03-05)
+    https://www.bible.com/bible/111/NUM.34.NIV
+  - Numbers 35 @defer(2020-03-06) @due(2020-03-06)
+    https://www.bible.com/bible/111/NUM.35.NIV
+  - Numbers 36 @defer(2020-03-06) @due(2020-03-06)
+    https://www.bible.com/bible/111/NUM.36.NIV
+  - Mark 10 @defer(2020-03-06) @due(2020-03-06)
+    https://www.bible.com/bible/111/MRK.10.NIV
+  - Deuteronomy 1 @defer(2020-03-07) @due(2020-03-07)
+    https://www.bible.com/bible/111/DEU.1.NIV
+  - Deuteronomy 2 @defer(2020-03-07) @due(2020-03-07)
+    https://www.bible.com/bible/111/DEU.2.NIV
+  - Deuteronomy 3 @defer(2020-03-07) @due(2020-03-07)
+    https://www.bible.com/bible/111/DEU.3.NIV
+  - Deuteronomy 4 @defer(2020-03-08) @due(2020-03-08)
+    https://www.bible.com/bible/111/DEU.4.NIV
+  - Deuteronomy 5 @defer(2020-03-08) @due(2020-03-08)
+    https://www.bible.com/bible/111/DEU.5.NIV
+  - Deuteronomy 6 @defer(2020-03-08) @due(2020-03-08)
+    https://www.bible.com/bible/111/DEU.6.NIV
+  - Mark 11 @defer(2020-03-08) @due(2020-03-08)
+    https://www.bible.com/bible/111/MRK.11.NIV
+  - Deuteronomy 7 @defer(2020-03-09) @due(2020-03-09)
+    https://www.bible.com/bible/111/DEU.7.NIV
+  - Deuteronomy 8 @defer(2020-03-09) @due(2020-03-09)
+    https://www.bible.com/bible/111/DEU.8.NIV
+  - Deuteronomy 9 @defer(2020-03-09) @due(2020-03-09)
+    https://www.bible.com/bible/111/DEU.9.NIV
+  - Deuteronomy 10 @defer(2020-03-10) @due(2020-03-10)
+    https://www.bible.com/bible/111/DEU.10.NIV
+  - Deuteronomy 11 @defer(2020-03-10) @due(2020-03-10)
+    https://www.bible.com/bible/111/DEU.11.NIV
+  - Deuteronomy 12 @defer(2020-03-10) @due(2020-03-10)
+    https://www.bible.com/bible/111/DEU.12.NIV
+  - Mark 12 @defer(2020-03-10) @due(2020-03-10)
+    https://www.bible.com/bible/111/MRK.12.NIV
+  - Deuteronomy 13 @defer(2020-03-11) @due(2020-03-11)
+    https://www.bible.com/bible/111/DEU.13.NIV
+  - Deuteronomy 14 @defer(2020-03-11) @due(2020-03-11)
+    https://www.bible.com/bible/111/DEU.14.NIV
+  - Deuteronomy 15 @defer(2020-03-11) @due(2020-03-11)
+    https://www.bible.com/bible/111/DEU.15.NIV
+  - Deuteronomy 16 @defer(2020-03-12) @due(2020-03-12)
+    https://www.bible.com/bible/111/DEU.16.NIV
+  - Deuteronomy 17 @defer(2020-03-12) @due(2020-03-12)
+    https://www.bible.com/bible/111/DEU.17.NIV
+  - Deuteronomy 18 @defer(2020-03-12) @due(2020-03-12)
+    https://www.bible.com/bible/111/DEU.18.NIV
+  - Mark 13 @defer(2020-03-12) @due(2020-03-12)
+    https://www.bible.com/bible/111/MRK.13.NIV
+  - Deuteronomy 19 @defer(2020-03-13) @due(2020-03-13)
+    https://www.bible.com/bible/111/DEU.19.NIV
+  - Deuteronomy 20 @defer(2020-03-13) @due(2020-03-13)
+    https://www.bible.com/bible/111/DEU.20.NIV
+  - Deuteronomy 21 @defer(2020-03-13) @due(2020-03-13)
+    https://www.bible.com/bible/111/DEU.21.NIV
+  - Deuteronomy 22 @defer(2020-03-14) @due(2020-03-14)
+    https://www.bible.com/bible/111/DEU.22.NIV
+  - Deuteronomy 23 @defer(2020-03-14) @due(2020-03-14)
+    https://www.bible.com/bible/111/DEU.23.NIV
+  - Deuteronomy 24 @defer(2020-03-14) @due(2020-03-14)
+    https://www.bible.com/bible/111/DEU.24.NIV
+  - Deuteronomy 25 @defer(2020-03-15) @due(2020-03-15)
+    https://www.bible.com/bible/111/DEU.25.NIV
+  - Deuteronomy 26 @defer(2020-03-15) @due(2020-03-15)
+    https://www.bible.com/bible/111/DEU.26.NIV
+  - Deuteronomy 27 @defer(2020-03-15) @due(2020-03-15)
+    https://www.bible.com/bible/111/DEU.27.NIV
+  - Mark 14 @defer(2020-03-15) @due(2020-03-15)
+    https://www.bible.com/bible/111/MRK.14.NIV
+  - Deuteronomy 28 @defer(2020-03-16) @due(2020-03-16)
+    https://www.bible.com/bible/111/DEU.28.NIV
+  - Deuteronomy 29 @defer(2020-03-16) @due(2020-03-16)
+    https://www.bible.com/bible/111/DEU.29.NIV
+  - Deuteronomy 30 @defer(2020-03-17) @due(2020-03-17)
+    https://www.bible.com/bible/111/DEU.30.NIV
+  - Deuteronomy 31 @defer(2020-03-17) @due(2020-03-17)
+    https://www.bible.com/bible/111/DEU.31.NIV
+  - Mark 15 @defer(2020-03-17) @due(2020-03-17)
+    https://www.bible.com/bible/111/MRK.15.NIV
+  - Deuteronomy 32 @defer(2020-03-18) @due(2020-03-18)
+    https://www.bible.com/bible/111/DEU.32.NIV
+  - Deuteronomy 33 @defer(2020-03-18) @due(2020-03-18)
+    https://www.bible.com/bible/111/DEU.33.NIV
+  - Deuteronomy 34 @defer(2020-03-18) @due(2020-03-18)
+    https://www.bible.com/bible/111/DEU.34.NIV
+  - Joshua 1 @defer(2020-03-19) @due(2020-03-19)
+    https://www.bible.com/bible/111/JOS.1.NIV
+  - Joshua 2 @defer(2020-03-19) @due(2020-03-19)
+    https://www.bible.com/bible/111/JOS.2.NIV
+  - Joshua 3 @defer(2020-03-19) @due(2020-03-19)
+    https://www.bible.com/bible/111/JOS.3.NIV
+  - Mark 16 @defer(2020-03-19) @due(2020-03-19)
+    https://www.bible.com/bible/111/MRK.16.NIV
+  - Joshua 4 @defer(2020-03-20) @due(2020-03-20)
+    https://www.bible.com/bible/111/JOS.4.NIV
+  - Joshua 5 @defer(2020-03-20) @due(2020-03-20)
+    https://www.bible.com/bible/111/JOS.5.NIV
+  - Joshua 6 @defer(2020-03-20) @due(2020-03-20)
+    https://www.bible.com/bible/111/JOS.6.NIV
+  - Joshua 7 @defer(2020-03-20) @due(2020-03-20)
+    https://www.bible.com/bible/111/JOS.7.NIV
+  - Joshua 8 @defer(2020-03-21) @due(2020-03-21)
+    https://www.bible.com/bible/111/JOS.8.NIV
+  - Joshua 9 @defer(2020-03-21) @due(2020-03-21)
+    https://www.bible.com/bible/111/JOS.9.NIV
+  - Joshua 10 @defer(2020-03-21) @due(2020-03-21)
+    https://www.bible.com/bible/111/JOS.10.NIV
+  - Joshua 11 @defer(2020-03-22) @due(2020-03-22)
+    https://www.bible.com/bible/111/JOS.11.NIV
+  - Joshua 12 @defer(2020-03-22) @due(2020-03-22)
+    https://www.bible.com/bible/111/JOS.12.NIV
+  - Joshua 13 @defer(2020-03-22) @due(2020-03-22)
+    https://www.bible.com/bible/111/JOS.13.NIV
+  - Joshua 14 @defer(2020-03-23) @due(2020-03-23)
+    https://www.bible.com/bible/111/JOS.14.NIV
+  - Joshua 15 @defer(2020-03-23) @due(2020-03-23)
+    https://www.bible.com/bible/111/JOS.15.NIV
+  - Luke 1 @defer(2020-03-23) @due(2020-03-23)
+    https://www.bible.com/bible/111/LUK.1.NIV
+  - Joshua 16 @defer(2020-03-24) @due(2020-03-24)
+    https://www.bible.com/bible/111/JOS.16.NIV
+  - Joshua 17 @defer(2020-03-24) @due(2020-03-24)
+    https://www.bible.com/bible/111/JOS.17.NIV
+  - Joshua 18 @defer(2020-03-24) @due(2020-03-24)
+    https://www.bible.com/bible/111/JOS.18.NIV
+  - Luke 2 @defer(2020-03-24) @due(2020-03-24)
+    https://www.bible.com/bible/111/LUK.2.NIV
+  - Joshua 19 @defer(2020-03-25) @due(2020-03-25)
+    https://www.bible.com/bible/111/JOS.19.NIV
+  - Joshua 20 @defer(2020-03-25) @due(2020-03-25)
+    https://www.bible.com/bible/111/JOS.20.NIV
+  - Joshua 21 @defer(2020-03-25) @due(2020-03-25)
+    https://www.bible.com/bible/111/JOS.21.NIV
+  - Joshua 22 @defer(2020-03-26) @due(2020-03-26)
+    https://www.bible.com/bible/111/JOS.22.NIV
+  - Joshua 23 @defer(2020-03-26) @due(2020-03-26)
+    https://www.bible.com/bible/111/JOS.23.NIV
+  - Joshua 24 @defer(2020-03-26) @due(2020-03-26)
+    https://www.bible.com/bible/111/JOS.24.NIV
+  - Luke 3 @defer(2020-03-26) @due(2020-03-26)
+    https://www.bible.com/bible/111/LUK.3.NIV
+  - Judges 1 @defer(2020-03-27) @due(2020-03-27)
+    https://www.bible.com/bible/111/JDG.1.NIV
+  - Judges 2 @defer(2020-03-27) @due(2020-03-27)
+    https://www.bible.com/bible/111/JDG.2.NIV
+  - Judges 3 @defer(2020-03-27) @due(2020-03-27)
+    https://www.bible.com/bible/111/JDG.3.NIV
+  - Luke 4 @defer(2020-03-27) @due(2020-03-27)
+    https://www.bible.com/bible/111/LUK.4.NIV
+  - Judges 4 @defer(2020-03-28) @due(2020-03-28)
+    https://www.bible.com/bible/111/JDG.4.NIV
+  - Judges 5 @defer(2020-03-28) @due(2020-03-28)
+    https://www.bible.com/bible/111/JDG.5.NIV
+  - Judges 6 @defer(2020-03-28) @due(2020-03-28)
+    https://www.bible.com/bible/111/JDG.6.NIV
+  - Judges 7 @defer(2020-03-29) @due(2020-03-29)
+    https://www.bible.com/bible/111/JDG.7.NIV
+  - Judges 8 @defer(2020-03-29) @due(2020-03-29)
+    https://www.bible.com/bible/111/JDG.8.NIV
+  - Luke 5 @defer(2020-03-29) @due(2020-03-29)
+    https://www.bible.com/bible/111/LUK.5.NIV
+  - Judges 9 @defer(2020-03-30) @due(2020-03-30)
+    https://www.bible.com/bible/111/JDG.9.NIV
+  - Judges 10 @defer(2020-03-30) @due(2020-03-30)
+    https://www.bible.com/bible/111/JDG.10.NIV
+  - Judges 11 @defer(2020-03-31) @due(2020-03-31)
+    https://www.bible.com/bible/111/JDG.11.NIV
+  - Judges 12 @defer(2020-03-31) @due(2020-03-31)
+    https://www.bible.com/bible/111/JDG.12.NIV
+  - Luke 6 @defer(2020-03-31) @due(2020-03-31)
+    https://www.bible.com/bible/111/LUK.6.NIV
+  - Judges 13 @defer(2020-04-01) @due(2020-04-01)
+    https://www.bible.com/bible/111/JDG.13.NIV
+  - Judges 14 @defer(2020-04-01) @due(2020-04-01)
+    https://www.bible.com/bible/111/JDG.14.NIV
+  - Judges 15 @defer(2020-04-01) @due(2020-04-01)
+    https://www.bible.com/bible/111/JDG.15.NIV
+  - Judges 16 @defer(2020-04-02) @due(2020-04-02)
+    https://www.bible.com/bible/111/JDG.16.NIV
+  - Judges 17 @defer(2020-04-02) @due(2020-04-02)
+    https://www.bible.com/bible/111/JDG.17.NIV
+  - Judges 18 @defer(2020-04-02) @due(2020-04-02)
+    https://www.bible.com/bible/111/JDG.18.NIV
+  - Luke 7 @defer(2020-04-02) @due(2020-04-02)
+    https://www.bible.com/bible/111/LUK.7.NIV
+  - Judges 19 @defer(2020-04-03) @due(2020-04-03)
+    https://www.bible.com/bible/111/JDG.19.NIV
+  - Judges 20 @defer(2020-04-03) @due(2020-04-03)
+    https://www.bible.com/bible/111/JDG.20.NIV
+  - Judges 21 @defer(2020-04-03) @due(2020-04-03)
+    https://www.bible.com/bible/111/JDG.21.NIV
+  - Ruth @defer(2020-04-04) @due(2020-04-04)
+    https://www.bible.com/bible/111/RUT.1.NIV
+  - 1 Samuel 1 @defer(2020-04-05) @due(2020-04-05)
+    https://www.bible.com/bible/111/1SA.1.NIV
+  - 1 Samuel 2 @defer(2020-04-05) @due(2020-04-05)
+    https://www.bible.com/bible/111/1SA.2.NIV
+  - 1 Samuel 3 @defer(2020-04-05) @due(2020-04-05)
+    https://www.bible.com/bible/111/1SA.3.NIV
+  - Luke 8 @defer(2020-04-05) @due(2020-04-05)
+    https://www.bible.com/bible/111/LUK.8.NIV
+  - 1 Samuel 4 @defer(2020-04-06) @due(2020-04-06)
+    https://www.bible.com/bible/111/1SA.4.NIV
+  - 1 Samuel 5 @defer(2020-04-06) @due(2020-04-06)
+    https://www.bible.com/bible/111/1SA.5.NIV
+  - 1 Samuel 6 @defer(2020-04-06) @due(2020-04-06)
+    https://www.bible.com/bible/111/1SA.6.NIV
+  - 1 Samuel 7 @defer(2020-04-06) @due(2020-04-06)
+    https://www.bible.com/bible/111/1SA.7.NIV
+  - 1 Samuel 8 @defer(2020-04-07) @due(2020-04-07)
+    https://www.bible.com/bible/111/1SA.8.NIV
+  - 1 Samuel 9 @defer(2020-04-07) @due(2020-04-07)
+    https://www.bible.com/bible/111/1SA.9.NIV
+  - 1 Samuel 10 @defer(2020-04-07) @due(2020-04-07)
+    https://www.bible.com/bible/111/1SA.10.NIV
+  - 1 Samuel 11 @defer(2020-04-08) @due(2020-04-08)
+    https://www.bible.com/bible/111/1SA.11.NIV
+  - 1 Samuel 12 @defer(2020-04-08) @due(2020-04-08)
+    https://www.bible.com/bible/111/1SA.12.NIV
+  - Luke 9 @defer(2020-04-08) @due(2020-04-08)
+    https://www.bible.com/bible/111/LUK.9.NIV
+  - 1 Samuel 13 @defer(2020-04-09) @due(2020-04-09)
+    https://www.bible.com/bible/111/1SA.13.NIV
+  - 1 Samuel 14 @defer(2020-04-09) @due(2020-04-09)
+    https://www.bible.com/bible/111/1SA.14.NIV
+  - 1 Samuel 15 @defer(2020-04-10) @due(2020-04-10)
+    https://www.bible.com/bible/111/1SA.15.NIV
+  - 1 Samuel 16 @defer(2020-04-10) @due(2020-04-10)
+    https://www.bible.com/bible/111/1SA.16.NIV
+  - Luke 10 @defer(2020-04-10) @due(2020-04-10)
+    https://www.bible.com/bible/111/LUK.10.NIV
+  - 1 Samuel 17 @defer(2020-04-11) @due(2020-04-11)
+    https://www.bible.com/bible/111/1SA.17.NIV
+  - 1 Samuel 18 @defer(2020-04-11) @due(2020-04-11)
+    https://www.bible.com/bible/111/1SA.18.NIV
+  - Luke 11 @defer(2020-04-11) @due(2020-04-11)
+    https://www.bible.com/bible/111/LUK.11.NIV
+  - 1 Samuel 19 @defer(2020-04-12) @due(2020-04-12)
+    https://www.bible.com/bible/111/1SA.19.NIV
+  - 1 Samuel 20 @defer(2020-04-12) @due(2020-04-12)
+    https://www.bible.com/bible/111/1SA.20.NIV
+  - 1 Samuel 21 @defer(2020-04-12) @due(2020-04-12)
+    https://www.bible.com/bible/111/1SA.21.NIV
+  - 1 Samuel 22 @defer(2020-04-13) @due(2020-04-13)
+    https://www.bible.com/bible/111/1SA.22.NIV
+  - 1 Samuel 23 @defer(2020-04-13) @due(2020-04-13)
+    https://www.bible.com/bible/111/1SA.23.NIV
+  - 1 Samuel 24 @defer(2020-04-13) @due(2020-04-13)
+    https://www.bible.com/bible/111/1SA.24.NIV
+  - 1 Samuel 25 @defer(2020-04-14) @due(2020-04-14)
+    https://www.bible.com/bible/111/1SA.25.NIV
+  - 1 Samuel 26 @defer(2020-04-14) @due(2020-04-14)
+    https://www.bible.com/bible/111/1SA.26.NIV
+  - Luke 12 @defer(2020-04-14) @due(2020-04-14)
+    https://www.bible.com/bible/111/LUK.12.NIV
+  - 1 Samuel 27 @defer(2020-04-15) @due(2020-04-15)
+    https://www.bible.com/bible/111/1SA.27.NIV
+  - 1 Samuel 28 @defer(2020-04-15) @due(2020-04-15)
+    https://www.bible.com/bible/111/1SA.28.NIV
+  - 1 Samuel 29 @defer(2020-04-15) @due(2020-04-15)
+    https://www.bible.com/bible/111/1SA.29.NIV
+  - 1 Samuel 30 @defer(2020-04-16) @due(2020-04-16)
+    https://www.bible.com/bible/111/1SA.30.NIV
+  - 1 Samuel 31 @defer(2020-04-16) @due(2020-04-16)
+    https://www.bible.com/bible/111/1SA.31.NIV
+  - Luke 13 @defer(2020-04-16) @due(2020-04-16)
+    https://www.bible.com/bible/111/LUK.13.NIV
+  - 2 Samuel 1 @defer(2020-04-17) @due(2020-04-17)
+    https://www.bible.com/bible/111/2SA.1.NIV
+  - 2 Samuel 2 @defer(2020-04-17) @due(2020-04-17)
+    https://www.bible.com/bible/111/2SA.2.NIV
+  - Luke 14 @defer(2020-04-17) @due(2020-04-17)
+    https://www.bible.com/bible/111/LUK.14.NIV
+  - 2 Samuel 3 @defer(2020-04-18) @due(2020-04-18)
+    https://www.bible.com/bible/111/2SA.3.NIV
+  - 2 Samuel 4 @defer(2020-04-18) @due(2020-04-18)
+    https://www.bible.com/bible/111/2SA.4.NIV
+  - 2 Samuel 5 @defer(2020-04-18) @due(2020-04-18)
+    https://www.bible.com/bible/111/2SA.5.NIV
+  - 2 Samuel 6 @defer(2020-04-19) @due(2020-04-19)
+    https://www.bible.com/bible/111/2SA.6.NIV
+  - 2 Samuel 7 @defer(2020-04-19) @due(2020-04-19)
+    https://www.bible.com/bible/111/2SA.7.NIV
+  - 2 Samuel 8 @defer(2020-04-19) @due(2020-04-19)
+    https://www.bible.com/bible/111/2SA.8.NIV
+  - 2 Samuel 9 @defer(2020-04-20) @due(2020-04-20)
+    https://www.bible.com/bible/111/2SA.9.NIV
+  - 2 Samuel 10 @defer(2020-04-20) @due(2020-04-20)
+    https://www.bible.com/bible/111/2SA.10.NIV
+  - 2 Samuel 11 @defer(2020-04-20) @due(2020-04-20)
+    https://www.bible.com/bible/111/2SA.11.NIV
+  - Luke 15 @defer(2020-04-20) @due(2020-04-20)
+    https://www.bible.com/bible/111/LUK.15.NIV
+  - 2 Samuel 12 @defer(2020-04-21) @due(2020-04-21)
+    https://www.bible.com/bible/111/2SA.12.NIV
+  - 2 Samuel 13 @defer(2020-04-21) @due(2020-04-21)
+    https://www.bible.com/bible/111/2SA.13.NIV
+  - Luke 16 @defer(2020-04-21) @due(2020-04-21)
+    https://www.bible.com/bible/111/LUK.16.NIV
+  - 2 Samuel 14 @defer(2020-04-22) @due(2020-04-22)
+    https://www.bible.com/bible/111/2SA.14.NIV
+  - 2 Samuel 15 @defer(2020-04-22) @due(2020-04-22)
+    https://www.bible.com/bible/111/2SA.15.NIV
+  - Luke 17 @defer(2020-04-22) @due(2020-04-22)
+    https://www.bible.com/bible/111/LUK.17.NIV
+  - 2 Samuel 16 @defer(2020-04-23) @due(2020-04-23)
+    https://www.bible.com/bible/111/2SA.16.NIV
+  - 2 Samuel 17 @defer(2020-04-23) @due(2020-04-23)
+    https://www.bible.com/bible/111/2SA.17.NIV
+  - 2 Samuel 18 @defer(2020-04-23) @due(2020-04-23)
+    https://www.bible.com/bible/111/2SA.18.NIV
+  - 2 Samuel 19 @defer(2020-04-24) @due(2020-04-24)
+    https://www.bible.com/bible/111/2SA.19.NIV
+  - 2 Samuel 20 @defer(2020-04-24) @due(2020-04-24)
+    https://www.bible.com/bible/111/2SA.20.NIV
+  - Luke 18 @defer(2020-04-24) @due(2020-04-24)
+    https://www.bible.com/bible/111/LUK.18.NIV
+  - 2 Samuel 21 @defer(2020-04-25) @due(2020-04-25)
+    https://www.bible.com/bible/111/2SA.21.NIV
+  - 2 Samuel 22 @defer(2020-04-25) @due(2020-04-25)
+    https://www.bible.com/bible/111/2SA.22.NIV
+  - 2 Samuel 23 @defer(2020-04-26) @due(2020-04-26)
+    https://www.bible.com/bible/111/2SA.23.NIV
+  - 2 Samuel 24 @defer(2020-04-26) @due(2020-04-26)
+    https://www.bible.com/bible/111/2SA.24.NIV
+  - Luke 19 @defer(2020-04-26) @due(2020-04-26)
+    https://www.bible.com/bible/111/LUK.19.NIV
+  - 1 Kings 1 @defer(2020-04-27) @due(2020-04-27)
+    https://www.bible.com/bible/111/1KI.1.NIV
+  - 1 Kings 2 @defer(2020-04-27) @due(2020-04-27)
+    https://www.bible.com/bible/111/1KI.2.NIV
+  - 1 Kings 3 @defer(2020-04-28) @due(2020-04-28)
+    https://www.bible.com/bible/111/1KI.3.NIV
+  - 1 Kings 4 @defer(2020-04-28) @due(2020-04-28)
+    https://www.bible.com/bible/111/1KI.4.NIV
+  - 1 Kings 5 @defer(2020-04-28) @due(2020-04-28)
+    https://www.bible.com/bible/111/1KI.5.NIV
+  - Luke 20 @defer(2020-04-28) @due(2020-04-28)
+    https://www.bible.com/bible/111/LUK.20.NIV
+  - 1 Kings 6 @defer(2020-04-29) @due(2020-04-29)
+    https://www.bible.com/bible/111/1KI.6.NIV
+  - 1 Kings 7 @defer(2020-04-29) @due(2020-04-29)
+    https://www.bible.com/bible/111/1KI.7.NIV
+  - 1 Kings 8 @defer(2020-04-30) @due(2020-04-30)
+    https://www.bible.com/bible/111/1KI.8.NIV
+  - 1 Kings 9 @defer(2020-04-30) @due(2020-04-30)
+    https://www.bible.com/bible/111/1KI.9.NIV
+  - 1 Kings 10 @defer(2020-05-01) @due(2020-05-01)
+    https://www.bible.com/bible/111/1KI.10.NIV
+  - 1 Kings 11 @defer(2020-05-01) @due(2020-05-01)
+    https://www.bible.com/bible/111/1KI.11.NIV
+  - Luke 21 @defer(2020-05-01) @due(2020-05-01)
+    https://www.bible.com/bible/111/LUK.21.NIV
+  - 1 Kings 12 @defer(2020-05-02) @due(2020-05-02)
+    https://www.bible.com/bible/111/1KI.12.NIV
+  - 1 Kings 13 @defer(2020-05-02) @due(2020-05-02)
+    https://www.bible.com/bible/111/1KI.13.NIV
+  - 1 Kings 14 @defer(2020-05-03) @due(2020-05-03)
+    https://www.bible.com/bible/111/1KI.14.NIV
+  - 1 Kings 15 @defer(2020-05-03) @due(2020-05-03)
+    https://www.bible.com/bible/111/1KI.15.NIV
+  - Luke 22 @defer(2020-05-03) @due(2020-05-03)
+    https://www.bible.com/bible/111/LUK.22.NIV
+  - 1 Kings 16 @defer(2020-05-04) @due(2020-05-04)
+    https://www.bible.com/bible/111/1KI.16.NIV
+  - 1 Kings 17 @defer(2020-05-04) @due(2020-05-04)
+    https://www.bible.com/bible/111/1KI.17.NIV
+  - 1 Kings 18 @defer(2020-05-04) @due(2020-05-04)
+    https://www.bible.com/bible/111/1KI.18.NIV
+  - 1 Kings 19 @defer(2020-05-05) @due(2020-05-05)
+    https://www.bible.com/bible/111/1KI.19.NIV
+  - 1 Kings 20 @defer(2020-05-05) @due(2020-05-05)
+    https://www.bible.com/bible/111/1KI.20.NIV
+  - Luke 23 @defer(2020-05-05) @due(2020-05-05)
+    https://www.bible.com/bible/111/LUK.23.NIV
+  - 1 Kings 21 @defer(2020-05-06) @due(2020-05-06)
+    https://www.bible.com/bible/111/1KI.21.NIV
+  - 1 Kings 22 @defer(2020-05-06) @due(2020-05-06)
+    https://www.bible.com/bible/111/1KI.22.NIV
+  - 2 Kings 1 @defer(2020-05-07) @due(2020-05-07)
+    https://www.bible.com/bible/111/2KI.1.NIV
+  - 2 Kings 2 @defer(2020-05-07) @due(2020-05-07)
+    https://www.bible.com/bible/111/2KI.2.NIV
+  - 2 Kings 3 @defer(2020-05-07) @due(2020-05-07)
+    https://www.bible.com/bible/111/2KI.3.NIV
+  - 2 Kings 4 @defer(2020-05-08) @due(2020-05-08)
+    https://www.bible.com/bible/111/2KI.4.NIV
+  - 2 Kings 5 @defer(2020-05-08) @due(2020-05-08)
+    https://www.bible.com/bible/111/2KI.5.NIV
+  - 2 Kings 6 @defer(2020-05-08) @due(2020-05-08)
+    https://www.bible.com/bible/111/2KI.6.NIV
+  - Luke 24 @defer(2020-05-08) @due(2020-05-08)
+    https://www.bible.com/bible/111/LUK.24.NIV
+  - 2 Kings 7 @defer(2020-05-09) @due(2020-05-09)
+    https://www.bible.com/bible/111/2KI.7.NIV
+  - 2 Kings 8 @defer(2020-05-09) @due(2020-05-09)
+    https://www.bible.com/bible/111/2KI.8.NIV
+  - 2 Kings 9 @defer(2020-05-09) @due(2020-05-09)
+    https://www.bible.com/bible/111/2KI.9.NIV
+  - 2 Kings 10 @defer(2020-05-10) @due(2020-05-10)
+    https://www.bible.com/bible/111/2KI.10.NIV
+  - 2 Kings 11 @defer(2020-05-10) @due(2020-05-10)
+    https://www.bible.com/bible/111/2KI.11.NIV
+  - 2 Kings 12 @defer(2020-05-10) @due(2020-05-10)
+    https://www.bible.com/bible/111/2KI.12.NIV
+  - John 1 @defer(2020-05-10) @due(2020-05-10)
+    https://www.bible.com/bible/111/JHN.1.NIV
+  - 2 Kings 13 @defer(2020-05-11) @due(2020-05-11)
+    https://www.bible.com/bible/111/2KI.13.NIV
+  - 2 Kings 14 @defer(2020-05-11) @due(2020-05-11)
+    https://www.bible.com/bible/111/2KI.14.NIV
+  - John 2 @defer(2020-05-11) @due(2020-05-11)
+    https://www.bible.com/bible/111/JHN.2.NIV
+  - 2 Kings 15 @defer(2020-05-12) @due(2020-05-12)
+    https://www.bible.com/bible/111/2KI.15.NIV
+  - 2 Kings 16 @defer(2020-05-12) @due(2020-05-12)
+    https://www.bible.com/bible/111/2KI.16.NIV
+  - John 3 @defer(2020-05-12) @due(2020-05-12)
+    https://www.bible.com/bible/111/JHN.3.NIV
+  - 2 Kings 17 @defer(2020-05-13) @due(2020-05-13)
+    https://www.bible.com/bible/111/2KI.17.NIV
+  - 2 Kings 18 @defer(2020-05-13) @due(2020-05-13)
+    https://www.bible.com/bible/111/2KI.18.NIV
+  - 2 Kings 19 @defer(2020-05-14) @due(2020-05-14)
+    https://www.bible.com/bible/111/2KI.19.NIV
+  - 2 Kings 20 @defer(2020-05-14) @due(2020-05-14)
+    https://www.bible.com/bible/111/2KI.20.NIV
+  - 2 Kings 21 @defer(2020-05-14) @due(2020-05-14)
+    https://www.bible.com/bible/111/2KI.21.NIV
+  - 2 Kings 22 @defer(2020-05-15) @due(2020-05-15)
+    https://www.bible.com/bible/111/2KI.22.NIV
+  - 2 Kings 23 @defer(2020-05-15) @due(2020-05-15)
+    https://www.bible.com/bible/111/2KI.23.NIV
+  - John 4 @defer(2020-05-15) @due(2020-05-15)
+    https://www.bible.com/bible/111/JHN.4.NIV
+  - 2 Kings 24 @defer(2020-05-16) @due(2020-05-16)
+    https://www.bible.com/bible/111/2KI.24.NIV
+  - 2 Kings 25 @defer(2020-05-16) @due(2020-05-16)
+    https://www.bible.com/bible/111/2KI.25.NIV
+  - John 5 @defer(2020-05-16) @due(2020-05-16)
+    https://www.bible.com/bible/111/JHN.5.NIV
+  - 1 Chronicles 1 @defer(2020-05-17) @due(2020-05-17)
+    https://www.bible.com/bible/111/1CH.1.NIV
+  - 1 Chronicles 2 @defer(2020-05-17) @due(2020-05-17)
+    https://www.bible.com/bible/111/1CH.2.NIV
+  - 1 Chronicles 3 @defer(2020-05-17) @due(2020-05-17)
+    https://www.bible.com/bible/111/1CH.3.NIV
+  - 1 Chronicles 4 @defer(2020-05-18) @due(2020-05-18)
+    https://www.bible.com/bible/111/1CH.4.NIV
+  - 1 Chronicles 5 @defer(2020-05-18) @due(2020-05-18)
+    https://www.bible.com/bible/111/1CH.5.NIV
+  - 1 Chronicles 6 @defer(2020-05-18) @due(2020-05-18)
+    https://www.bible.com/bible/111/1CH.6.NIV
+  - 1 Chronicles 7 @defer(2020-05-18) @due(2020-05-18)
+    https://www.bible.com/bible/111/1CH.7.NIV
+  - 1 Chronicles 8 @defer(2020-05-19) @due(2020-05-19)
+    https://www.bible.com/bible/111/1CH.8.NIV
+  - 1 Chronicles 9 @defer(2020-05-19) @due(2020-05-19)
+    https://www.bible.com/bible/111/1CH.9.NIV
+  - 1 Chronicles 10 @defer(2020-05-19) @due(2020-05-19)
+    https://www.bible.com/bible/111/1CH.10.NIV
+  - 1 Chronicles 11 @defer(2020-05-20) @due(2020-05-20)
+    https://www.bible.com/bible/111/1CH.11.NIV
+  - 1 Chronicles 12 @defer(2020-05-20) @due(2020-05-20)
+    https://www.bible.com/bible/111/1CH.12.NIV
+  - John 6 @defer(2020-05-20) @due(2020-05-20)
+    https://www.bible.com/bible/111/JHN.6.NIV
+  - 1 Chronicles 13 @defer(2020-05-21) @due(2020-05-21)
+    https://www.bible.com/bible/111/1CH.13.NIV
+  - 1 Chronicles 14 @defer(2020-05-21) @due(2020-05-21)
+    https://www.bible.com/bible/111/1CH.14.NIV
+  - 1 Chronicles 15 @defer(2020-05-21) @due(2020-05-21)
+    https://www.bible.com/bible/111/1CH.15.NIV
+  - John 7 @defer(2020-05-21) @due(2020-05-21)
+    https://www.bible.com/bible/111/JHN.7.NIV
+  - 1 Chronicles 16 @defer(2020-05-22) @due(2020-05-22)
+    https://www.bible.com/bible/111/1CH.16.NIV
+  - 1 Chronicles 17 @defer(2020-05-22) @due(2020-05-22)
+    https://www.bible.com/bible/111/1CH.17.NIV
+  - 1 Chronicles 18 @defer(2020-05-22) @due(2020-05-22)
+    https://www.bible.com/bible/111/1CH.18.NIV
+  - 1 Chronicles 19 @defer(2020-05-23) @due(2020-05-23)
+    https://www.bible.com/bible/111/1CH.19.NIV
+  - 1 Chronicles 20 @defer(2020-05-23) @due(2020-05-23)
+    https://www.bible.com/bible/111/1CH.20.NIV
+  - 1 Chronicles 21 @defer(2020-05-23) @due(2020-05-23)
+    https://www.bible.com/bible/111/1CH.21.NIV
+  - John 8 @defer(2020-05-23) @due(2020-05-23)
+    https://www.bible.com/bible/111/JHN.8.NIV
+  - 1 Chronicles 22 @defer(2020-05-24) @due(2020-05-24)
+    https://www.bible.com/bible/111/1CH.22.NIV
+  - 1 Chronicles 23 @defer(2020-05-24) @due(2020-05-24)
+    https://www.bible.com/bible/111/1CH.23.NIV
+  - 1 Chronicles 24 @defer(2020-05-24) @due(2020-05-24)
+    https://www.bible.com/bible/111/1CH.24.NIV
+  - 1 Chronicles 25 @defer(2020-05-25) @due(2020-05-25)
+    https://www.bible.com/bible/111/1CH.25.NIV
+  - 1 Chronicles 26 @defer(2020-05-25) @due(2020-05-25)
+    https://www.bible.com/bible/111/1CH.26.NIV
+  - 1 Chronicles 27 @defer(2020-05-25) @due(2020-05-25)
+    https://www.bible.com/bible/111/1CH.27.NIV
+  - 1 Chronicles 28 @defer(2020-05-26) @due(2020-05-26)
+    https://www.bible.com/bible/111/1CH.28.NIV
+  - 1 Chronicles 29 @defer(2020-05-26) @due(2020-05-26)
+    https://www.bible.com/bible/111/1CH.29.NIV
+  - John 9 @defer(2020-05-26) @due(2020-05-26)
+    https://www.bible.com/bible/111/JHN.9.NIV
+  - 2 Chronicles 1 @defer(2020-05-27) @due(2020-05-27)
+    https://www.bible.com/bible/111/2CH.1.NIV
+  - 2 Chronicles 2 @defer(2020-05-27) @due(2020-05-27)
+    https://www.bible.com/bible/111/2CH.2.NIV
+  - 2 Chronicles 3 @defer(2020-05-27) @due(2020-05-27)
+    https://www.bible.com/bible/111/2CH.3.NIV
+  - John 10 @defer(2020-05-27) @due(2020-05-27)
+    https://www.bible.com/bible/111/JHN.10.NIV
+  - 2 Chronicles 4 @defer(2020-05-28) @due(2020-05-28)
+    https://www.bible.com/bible/111/2CH.4.NIV
+  - 2 Chronicles 5 @defer(2020-05-28) @due(2020-05-28)
+    https://www.bible.com/bible/111/2CH.5.NIV
+  - 2 Chronicles 6 @defer(2020-05-28) @due(2020-05-28)
+    https://www.bible.com/bible/111/2CH.6.NIV
+  - 2 Chronicles 7 @defer(2020-05-29) @due(2020-05-29)
+    https://www.bible.com/bible/111/2CH.7.NIV
+  - 2 Chronicles 8 @defer(2020-05-29) @due(2020-05-29)
+    https://www.bible.com/bible/111/2CH.8.NIV
+  - 2 Chronicles 9 @defer(2020-05-29) @due(2020-05-29)
+    https://www.bible.com/bible/111/2CH.9.NIV
+  - 2 Chronicles 10 @defer(2020-05-30) @due(2020-05-30)
+    https://www.bible.com/bible/111/2CH.10.NIV
+  - 2 Chronicles 11 @defer(2020-05-30) @due(2020-05-30)
+    https://www.bible.com/bible/111/2CH.11.NIV
+  - 2 Chronicles 12 @defer(2020-05-30) @due(2020-05-30)
+    https://www.bible.com/bible/111/2CH.12.NIV
+  - John 11 @defer(2020-05-30) @due(2020-05-30)
+    https://www.bible.com/bible/111/JHN.11.NIV
+  - 2 Chronicles 13 @defer(2020-05-31) @due(2020-05-31)
+    https://www.bible.com/bible/111/2CH.13.NIV
+  - 2 Chronicles 14 @defer(2020-05-31) @due(2020-05-31)
+    https://www.bible.com/bible/111/2CH.14.NIV
+  - 2 Chronicles 15 @defer(2020-06-01) @due(2020-06-01)
+    https://www.bible.com/bible/111/2CH.15.NIV
+  - 2 Chronicles 16 @defer(2020-06-01) @due(2020-06-01)
+    https://www.bible.com/bible/111/2CH.16.NIV
+  - John 12 @defer(2020-06-01) @due(2020-06-01)
+    https://www.bible.com/bible/111/JHN.12.NIV
+  - 2 Chronicles 17 @defer(2020-06-02) @due(2020-06-02)
+    https://www.bible.com/bible/111/2CH.17.NIV
+  - 2 Chronicles 18 @defer(2020-06-02) @due(2020-06-02)
+    https://www.bible.com/bible/111/2CH.18.NIV
+  - John 13 @defer(2020-06-02) @due(2020-06-02)
+    https://www.bible.com/bible/111/JHN.13.NIV
+  - 2 Chronicles 19 @defer(2020-06-03) @due(2020-06-03)
+    https://www.bible.com/bible/111/2CH.19.NIV
+  - 2 Chronicles 20 @defer(2020-06-03) @due(2020-06-03)
+    https://www.bible.com/bible/111/2CH.20.NIV
+  - 2 Chronicles 21 @defer(2020-06-04) @due(2020-06-04)
+    https://www.bible.com/bible/111/2CH.21.NIV
+  - 2 Chronicles 22 @defer(2020-06-04) @due(2020-06-04)
+    https://www.bible.com/bible/111/2CH.22.NIV
+  - John 14 @defer(2020-06-04) @due(2020-06-04)
+    https://www.bible.com/bible/111/JHN.14.NIV
+  - 2 Chronicles 23 @defer(2020-06-05) @due(2020-06-05)
+    https://www.bible.com/bible/111/2CH.23.NIV
+  - 2 Chronicles 24 @defer(2020-06-05) @due(2020-06-05)
+    https://www.bible.com/bible/111/2CH.24.NIV
+  - John 15 @defer(2020-06-05) @due(2020-06-05)
+    https://www.bible.com/bible/111/JHN.15.NIV
+  - 2 Chronicles 25 @defer(2020-06-06) @due(2020-06-06)
+    https://www.bible.com/bible/111/2CH.25.NIV
+  - 2 Chronicles 26 @defer(2020-06-06) @due(2020-06-06)
+    https://www.bible.com/bible/111/2CH.26.NIV
+  - 2 Chronicles 27 @defer(2020-06-06) @due(2020-06-06)
+    https://www.bible.com/bible/111/2CH.27.NIV
+  - John 16 @defer(2020-06-06) @due(2020-06-06)
+    https://www.bible.com/bible/111/JHN.16.NIV
+  - 2 Chronicles 28 @defer(2020-06-07) @due(2020-06-07)
+    https://www.bible.com/bible/111/2CH.28.NIV
+  - 2 Chronicles 29 @defer(2020-06-07) @due(2020-06-07)
+    https://www.bible.com/bible/111/2CH.29.NIV
+  - John 17 @defer(2020-06-07) @due(2020-06-07)
+    https://www.bible.com/bible/111/JHN.17.NIV
+  - 2 Chronicles 30 @defer(2020-06-08) @due(2020-06-08)
+    https://www.bible.com/bible/111/2CH.30.NIV
+  - 2 Chronicles 31 @defer(2020-06-08) @due(2020-06-08)
+    https://www.bible.com/bible/111/2CH.31.NIV
+  - John 18 @defer(2020-06-08) @due(2020-06-08)
+    https://www.bible.com/bible/111/JHN.18.NIV
+  - 2 Chronicles 32 @defer(2020-06-09) @due(2020-06-09)
+    https://www.bible.com/bible/111/2CH.32.NIV
+  - 2 Chronicles 33 @defer(2020-06-09) @due(2020-06-09)
+    https://www.bible.com/bible/111/2CH.33.NIV
+  - 2 Chronicles 34 @defer(2020-06-10) @due(2020-06-10)
+    https://www.bible.com/bible/111/2CH.34.NIV
+  - 2 Chronicles 35 @defer(2020-06-10) @due(2020-06-10)
+    https://www.bible.com/bible/111/2CH.35.NIV
+  - 2 Chronicles 36 @defer(2020-06-10) @due(2020-06-10)
+    https://www.bible.com/bible/111/2CH.36.NIV
+  - John 19 @defer(2020-06-10) @due(2020-06-10)
+    https://www.bible.com/bible/111/JHN.19.NIV
+  - Ezra 1 @defer(2020-06-11) @due(2020-06-11)
+    https://www.bible.com/bible/111/EZR.1.NIV
+  - Ezra 2 @defer(2020-06-11) @due(2020-06-11)
+    https://www.bible.com/bible/111/EZR.2.NIV
+  - Ezra 3 @defer(2020-06-12) @due(2020-06-12)
+    https://www.bible.com/bible/111/EZR.3.NIV
+  - Ezra 4 @defer(2020-06-12) @due(2020-06-12)
+    https://www.bible.com/bible/111/EZR.4.NIV
+  - Ezra 5 @defer(2020-06-12) @due(2020-06-12)
+    https://www.bible.com/bible/111/EZR.5.NIV
+  - John 20 @defer(2020-06-12) @due(2020-06-12)
+    https://www.bible.com/bible/111/JHN.20.NIV
+  - Ezra 6 @defer(2020-06-13) @due(2020-06-13)
+    https://www.bible.com/bible/111/EZR.6.NIV
+  - Ezra 7 @defer(2020-06-13) @due(2020-06-13)
+    https://www.bible.com/bible/111/EZR.7.NIV
+  - Ezra 8 @defer(2020-06-13) @due(2020-06-13)
+    https://www.bible.com/bible/111/EZR.8.NIV
+  - John 21 @defer(2020-06-13) @due(2020-06-13)
+    https://www.bible.com/bible/111/JHN.21.NIV
+  - Ezra 9 @defer(2020-06-14) @due(2020-06-14)
+    https://www.bible.com/bible/111/EZR.9.NIV
+  - Ezra 10 @defer(2020-06-14) @due(2020-06-14)
+    https://www.bible.com/bible/111/EZR.10.NIV
+  - Acts 1 @defer(2020-06-14) @due(2020-06-14)
+    https://www.bible.com/bible/111/ACT.1.NIV
+  - Nehemiah 1 @defer(2020-06-15) @due(2020-06-15)
+    https://www.bible.com/bible/111/NEH.1.NIV
+  - Nehemiah 2 @defer(2020-06-15) @due(2020-06-15)
+    https://www.bible.com/bible/111/NEH.2.NIV
+  - Nehemiah 3 @defer(2020-06-15) @due(2020-06-15)
+    https://www.bible.com/bible/111/NEH.3.NIV
+  - Nehemiah 4 @defer(2020-06-16) @due(2020-06-16)
+    https://www.bible.com/bible/111/NEH.4.NIV
+  - Nehemiah 5 @defer(2020-06-16) @due(2020-06-16)
+    https://www.bible.com/bible/111/NEH.5.NIV
+  - Nehemiah 6 @defer(2020-06-16) @due(2020-06-16)
+    https://www.bible.com/bible/111/NEH.6.NIV
+  - Acts 2 @defer(2020-06-16) @due(2020-06-16)
+    https://www.bible.com/bible/111/ACT.2.NIV
+  - Nehemiah 7 @defer(2020-06-17) @due(2020-06-17)
+    https://www.bible.com/bible/111/NEH.7.NIV
+  - Nehemiah 8 @defer(2020-06-17) @due(2020-06-17)
+    https://www.bible.com/bible/111/NEH.8.NIV
+  - Nehemiah 9 @defer(2020-06-17) @due(2020-06-17)
+    https://www.bible.com/bible/111/NEH.9.NIV
+  - Acts 3 @defer(2020-06-17) @due(2020-06-17)
+    https://www.bible.com/bible/111/ACT.3.NIV
+  - Nehemiah 10 @defer(2020-06-18) @due(2020-06-18)
+    https://www.bible.com/bible/111/NEH.10.NIV
+  - Nehemiah 11 @defer(2020-06-18) @due(2020-06-18)
+    https://www.bible.com/bible/111/NEH.11.NIV
+  - Acts 4 @defer(2020-06-18) @due(2020-06-18)
+    https://www.bible.com/bible/111/ACT.4.NIV
+  - Nehemiah 12 @defer(2020-06-19) @due(2020-06-19)
+    https://www.bible.com/bible/111/NEH.12.NIV
+  - Nehemiah 13 @defer(2020-06-19) @due(2020-06-19)
+    https://www.bible.com/bible/111/NEH.13.NIV
+  - Esther 1 @defer(2020-06-20) @due(2020-06-20)
+    https://www.bible.com/bible/111/EST.1.NIV
+  - Esther 2 @defer(2020-06-20) @due(2020-06-20)
+    https://www.bible.com/bible/111/EST.2.NIV
+  - Acts 5 @defer(2020-06-20) @due(2020-06-20)
+    https://www.bible.com/bible/111/ACT.5.NIV
+  - Esther 3 @defer(2020-06-21) @due(2020-06-21)
+    https://www.bible.com/bible/111/EST.3.NIV
+  - Esther 4 @defer(2020-06-21) @due(2020-06-21)
+    https://www.bible.com/bible/111/EST.4.NIV
+  - Esther 5 @defer(2020-06-21) @due(2020-06-21)
+    https://www.bible.com/bible/111/EST.5.NIV
+  - Esther 6 @defer(2020-06-22) @due(2020-06-22)
+    https://www.bible.com/bible/111/EST.6.NIV
+  - Esther 7 @defer(2020-06-22) @due(2020-06-22)
+    https://www.bible.com/bible/111/EST.7.NIV
+  - Esther 8 @defer(2020-06-22) @due(2020-06-22)
+    https://www.bible.com/bible/111/EST.8.NIV
+  - Acts 6 @defer(2020-06-22) @due(2020-06-22)
+    https://www.bible.com/bible/111/ACT.6.NIV
+  - Esther 9 @defer(2020-06-23) @due(2020-06-23)
+    https://www.bible.com/bible/111/EST.9.NIV
+  - Esther 10 @defer(2020-06-23) @due(2020-06-23)
+    https://www.bible.com/bible/111/EST.10.NIV
+  - Acts 7 @defer(2020-06-23) @due(2020-06-23)
+    https://www.bible.com/bible/111/ACT.7.NIV
+  - Job 1 @defer(2020-06-24) @due(2020-06-24)
+    https://www.bible.com/bible/111/JOB.1.NIV
+  - Job 2 @defer(2020-06-24) @due(2020-06-24)
+    https://www.bible.com/bible/111/JOB.2.NIV
+  - Job 3 @defer(2020-06-25) @due(2020-06-25)
+    https://www.bible.com/bible/111/JOB.3.NIV
+  - Job 4 @defer(2020-06-25) @due(2020-06-25)
+    https://www.bible.com/bible/111/JOB.4.NIV
+  - Job 5 @defer(2020-06-26) @due(2020-06-26)
+    https://www.bible.com/bible/111/JOB.5.NIV
+  - Job 6 @defer(2020-06-26) @due(2020-06-26)
+    https://www.bible.com/bible/111/JOB.6.NIV
+  - Job 7 @defer(2020-06-26) @due(2020-06-26)
+    https://www.bible.com/bible/111/JOB.7.NIV
+  - Acts 8 @defer(2020-06-26) @due(2020-06-26)
+    https://www.bible.com/bible/111/ACT.8.NIV
+  - Job 8 @defer(2020-06-27) @due(2020-06-27)
+    https://www.bible.com/bible/111/JOB.8.NIV
+  - Job 9 @defer(2020-06-27) @due(2020-06-27)
+    https://www.bible.com/bible/111/JOB.9.NIV
+  - Job 10 @defer(2020-06-27) @due(2020-06-27)
+    https://www.bible.com/bible/111/JOB.10.NIV
+  - Job 11 @defer(2020-06-28) @due(2020-06-28)
+    https://www.bible.com/bible/111/JOB.11.NIV
+  - Job 12 @defer(2020-06-28) @due(2020-06-28)
+    https://www.bible.com/bible/111/JOB.12.NIV
+  - Job 13 @defer(2020-06-28) @due(2020-06-28)
+    https://www.bible.com/bible/111/JOB.13.NIV
+  - Acts 9 @defer(2020-06-28) @due(2020-06-28)
+    https://www.bible.com/bible/111/ACT.9.NIV
+  - Job 14 @defer(2020-06-29) @due(2020-06-29)
+    https://www.bible.com/bible/111/JOB.14.NIV
+  - Job 15 @defer(2020-06-29) @due(2020-06-29)
+    https://www.bible.com/bible/111/JOB.15.NIV
+  - Job 16 @defer(2020-06-29) @due(2020-06-29)
+    https://www.bible.com/bible/111/JOB.16.NIV
+  - Job 17 @defer(2020-06-30) @due(2020-06-30)
+    https://www.bible.com/bible/111/JOB.17.NIV
+  - Job 18 @defer(2020-06-30) @due(2020-06-30)
+    https://www.bible.com/bible/111/JOB.18.NIV
+  - Job 19 @defer(2020-06-30) @due(2020-06-30)
+    https://www.bible.com/bible/111/JOB.19.NIV
+  - Job 20 @defer(2020-07-01) @due(2020-07-01)
+    https://www.bible.com/bible/111/JOB.20.NIV
+  - Job 21 @defer(2020-07-01) @due(2020-07-01)
+    https://www.bible.com/bible/111/JOB.21.NIV
+  - Acts 10 @defer(2020-07-01) @due(2020-07-01)
+    https://www.bible.com/bible/111/ACT.10.NIV
+  - Job 22 @defer(2020-07-02) @due(2020-07-02)
+    https://www.bible.com/bible/111/JOB.22.NIV
+  - Job 23 @defer(2020-07-02) @due(2020-07-02)
+    https://www.bible.com/bible/111/JOB.23.NIV
+  - Job 24 @defer(2020-07-02) @due(2020-07-02)
+    https://www.bible.com/bible/111/JOB.24.NIV
+  - Acts 11 @defer(2020-07-02) @due(2020-07-02)
+    https://www.bible.com/bible/111/ACT.11.NIV
+  - Job 25 @defer(2020-07-03) @due(2020-07-03)
+    https://www.bible.com/bible/111/JOB.25.NIV
+  - Job 26 @defer(2020-07-03) @due(2020-07-03)
+    https://www.bible.com/bible/111/JOB.26.NIV
+  - Job 27 @defer(2020-07-03) @due(2020-07-03)
+    https://www.bible.com/bible/111/JOB.27.NIV
+  - Acts 12 @defer(2020-07-03) @due(2020-07-03)
+    https://www.bible.com/bible/111/ACT.12.NIV
+  - Job 28 @defer(2020-07-04) @due(2020-07-04)
+    https://www.bible.com/bible/111/JOB.28.NIV
+  - Job 29 @defer(2020-07-04) @due(2020-07-04)
+    https://www.bible.com/bible/111/JOB.29.NIV
+  - Acts 13 @defer(2020-07-04) @due(2020-07-04)
+    https://www.bible.com/bible/111/ACT.13.NIV
+  - Job 30 @defer(2020-07-05) @due(2020-07-05)
+    https://www.bible.com/bible/111/JOB.30.NIV
+  - Job 31 @defer(2020-07-05) @due(2020-07-05)
+    https://www.bible.com/bible/111/JOB.31.NIV
+  - Job 32 @defer(2020-07-06) @due(2020-07-06)
+    https://www.bible.com/bible/111/JOB.32.NIV
+  - Job 33 @defer(2020-07-06) @due(2020-07-06)
+    https://www.bible.com/bible/111/JOB.33.NIV
+  - Acts 14 @defer(2020-07-06) @due(2020-07-06)
+    https://www.bible.com/bible/111/ACT.14.NIV
+  - Job 34 @defer(2020-07-07) @due(2020-07-07)
+    https://www.bible.com/bible/111/JOB.34.NIV
+  - Job 35 @defer(2020-07-07) @due(2020-07-07)
+    https://www.bible.com/bible/111/JOB.35.NIV
+  - Acts 15 @defer(2020-07-07) @due(2020-07-07)
+    https://www.bible.com/bible/111/ACT.15.NIV
+  - Job 36 @defer(2020-07-08) @due(2020-07-08)
+    https://www.bible.com/bible/111/JOB.36.NIV
+  - Job 37 @defer(2020-07-08) @due(2020-07-08)
+    https://www.bible.com/bible/111/JOB.37.NIV
+  - Job 38 @defer(2020-07-09) @due(2020-07-09)
+    https://www.bible.com/bible/111/JOB.38.NIV
+  - Job 39 @defer(2020-07-09) @due(2020-07-09)
+    https://www.bible.com/bible/111/JOB.39.NIV
+  - Job 40 @defer(2020-07-09) @due(2020-07-09)
+    https://www.bible.com/bible/111/JOB.40.NIV
+  - Job 41 @defer(2020-07-10) @due(2020-07-10)
+    https://www.bible.com/bible/111/JOB.41.NIV
+  - Job 42 @defer(2020-07-10) @due(2020-07-10)
+    https://www.bible.com/bible/111/JOB.42.NIV
+  - Acts 16 @defer(2020-07-10) @due(2020-07-10)
+    https://www.bible.com/bible/111/ACT.16.NIV
+  - Psalms 1 @defer(2020-07-11) @due(2020-07-11)
+    https://www.bible.com/bible/111/PSA.1.NIV
+  - Psalms 2 @defer(2020-07-11) @due(2020-07-11)
+    https://www.bible.com/bible/111/PSA.2.NIV
+  - Psalms 3 @defer(2020-07-11) @due(2020-07-11)
+    https://www.bible.com/bible/111/PSA.3.NIV
+  - Acts 17 @defer(2020-07-11) @due(2020-07-11)
+    https://www.bible.com/bible/111/ACT.17.NIV
+  - Psalms 4 @defer(2020-07-12) @due(2020-07-12)
+    https://www.bible.com/bible/111/PSA.4.NIV
+  - Psalms 5 @defer(2020-07-12) @due(2020-07-12)
+    https://www.bible.com/bible/111/PSA.5.NIV
+  - Psalms 6 @defer(2020-07-12) @due(2020-07-12)
+    https://www.bible.com/bible/111/PSA.6.NIV
+  - Psalms 7 @defer(2020-07-13) @due(2020-07-13)
+    https://www.bible.com/bible/111/PSA.7.NIV
+  - Psalms 8 @defer(2020-07-13) @due(2020-07-13)
+    https://www.bible.com/bible/111/PSA.8.NIV
+  - Psalms 9 @defer(2020-07-13) @due(2020-07-13)
+    https://www.bible.com/bible/111/PSA.9.NIV
+  - Acts 18 @defer(2020-07-13) @due(2020-07-13)
+    https://www.bible.com/bible/111/ACT.18.NIV
+  - Psalms 10 @defer(2020-07-14) @due(2020-07-14)
+    https://www.bible.com/bible/111/PSA.10.NIV
+  - Psalms 11 @defer(2020-07-14) @due(2020-07-14)
+    https://www.bible.com/bible/111/PSA.11.NIV
+  - Psalms 12 @defer(2020-07-14) @due(2020-07-14)
+    https://www.bible.com/bible/111/PSA.12.NIV
+  - Psalms 13 @defer(2020-07-15) @due(2020-07-15)
+    https://www.bible.com/bible/111/PSA.13.NIV
+  - Psalms 14 @defer(2020-07-15) @due(2020-07-15)
+    https://www.bible.com/bible/111/PSA.14.NIV
+  - Psalms 15 @defer(2020-07-15) @due(2020-07-15)
+    https://www.bible.com/bible/111/PSA.15.NIV
+  - Acts 19 @defer(2020-07-15) @due(2020-07-15)
+    https://www.bible.com/bible/111/ACT.19.NIV
+  - Psalms 16 @defer(2020-07-16) @due(2020-07-16)
+    https://www.bible.com/bible/111/PSA.16.NIV
+  - Psalms 17 @defer(2020-07-16) @due(2020-07-16)
+    https://www.bible.com/bible/111/PSA.17.NIV
+  - Acts 20 @defer(2020-07-16) @due(2020-07-16)
+    https://www.bible.com/bible/111/ACT.20.NIV
+  - Psalms 18 @defer(2020-07-17) @due(2020-07-17)
+    https://www.bible.com/bible/111/PSA.18.NIV
+  - Psalms 19 @defer(2020-07-17) @due(2020-07-17)
+    https://www.bible.com/bible/111/PSA.19.NIV
+  - Psalms 20 @defer(2020-07-18) @due(2020-07-18)
+    https://www.bible.com/bible/111/PSA.20.NIV
+  - Psalms 21 @defer(2020-07-18) @due(2020-07-18)
+    https://www.bible.com/bible/111/PSA.21.NIV
+  - Psalms 22 @defer(2020-07-18) @due(2020-07-18)
+    https://www.bible.com/bible/111/PSA.22.NIV
+  - Psalms 23 @defer(2020-07-19) @due(2020-07-19)
+    https://www.bible.com/bible/111/PSA.23.NIV
+  - Psalms 24 @defer(2020-07-19) @due(2020-07-19)
+    https://www.bible.com/bible/111/PSA.24.NIV
+  - Psalms 25 @defer(2020-07-19) @due(2020-07-19)
+    https://www.bible.com/bible/111/PSA.25.NIV
+  - Acts 21 @defer(2020-07-19) @due(2020-07-19)
+    https://www.bible.com/bible/111/ACT.21.NIV
+  - Psalms 26 @defer(2020-07-20) @due(2020-07-20)
+    https://www.bible.com/bible/111/PSA.26.NIV
+  - Psalms 27 @defer(2020-07-20) @due(2020-07-20)
+    https://www.bible.com/bible/111/PSA.27.NIV
+  - Psalms 28 @defer(2020-07-20) @due(2020-07-20)
+    https://www.bible.com/bible/111/PSA.28.NIV
+  - Acts 22 @defer(2020-07-20) @due(2020-07-20)
+    https://www.bible.com/bible/111/ACT.22.NIV
+  - Psalms 29 @defer(2020-07-21) @due(2020-07-21)
+    https://www.bible.com/bible/111/PSA.29.NIV
+  - Psalms 30 @defer(2020-07-21) @due(2020-07-21)
+    https://www.bible.com/bible/111/PSA.30.NIV
+  - Acts 23 @defer(2020-07-21) @due(2020-07-21)
+    https://www.bible.com/bible/111/ACT.23.NIV
+  - Psalms 31 @defer(2020-07-22) @due(2020-07-22)
+    https://www.bible.com/bible/111/PSA.31.NIV
+  - Psalms 32 @defer(2020-07-22) @due(2020-07-22)
+    https://www.bible.com/bible/111/PSA.32.NIV
+  - Psalms 33 @defer(2020-07-23) @due(2020-07-23)
+    https://www.bible.com/bible/111/PSA.33.NIV
+  - Psalms 34 @defer(2020-07-23) @due(2020-07-23)
+    https://www.bible.com/bible/111/PSA.34.NIV
+  - Acts 24 @defer(2020-07-23) @due(2020-07-23)
+    https://www.bible.com/bible/111/ACT.24.NIV
+  - Psalms 35 @defer(2020-07-24) @due(2020-07-24)
+    https://www.bible.com/bible/111/PSA.35.NIV
+  - Psalms 36 @defer(2020-07-24) @due(2020-07-24)
+    https://www.bible.com/bible/111/PSA.36.NIV
+  - Acts 25 @defer(2020-07-24) @due(2020-07-24)
+    https://www.bible.com/bible/111/ACT.25.NIV
+  - Psalms 37 @defer(2020-07-25) @due(2020-07-25)
+    https://www.bible.com/bible/111/PSA.37.NIV
+  - Psalms 38 @defer(2020-07-25) @due(2020-07-25)
+    https://www.bible.com/bible/111/PSA.38.NIV
+  - Psalms 39 @defer(2020-07-25) @due(2020-07-25)
+    https://www.bible.com/bible/111/PSA.39.NIV
+  - Acts 26 @defer(2020-07-25) @due(2020-07-25)
+    https://www.bible.com/bible/111/ACT.26.NIV
+  - Psalms 40 @defer(2020-07-26) @due(2020-07-26)
+    https://www.bible.com/bible/111/PSA.40.NIV
+  - Psalms 41 @defer(2020-07-26) @due(2020-07-26)
+    https://www.bible.com/bible/111/PSA.41.NIV
+  - Psalms 42 @defer(2020-07-26) @due(2020-07-26)
+    https://www.bible.com/bible/111/PSA.42.NIV
+  - Acts 27 @defer(2020-07-26) @due(2020-07-26)
+    https://www.bible.com/bible/111/ACT.27.NIV
+  - Psalms 43 @defer(2020-07-27) @due(2020-07-27)
+    https://www.bible.com/bible/111/PSA.43.NIV
+  - Psalms 44 @defer(2020-07-27) @due(2020-07-27)
+    https://www.bible.com/bible/111/PSA.44.NIV
+  - Psalms 45 @defer(2020-07-27) @due(2020-07-27)
+    https://www.bible.com/bible/111/PSA.45.NIV
+  - Psalms 46 @defer(2020-07-28) @due(2020-07-28)
+    https://www.bible.com/bible/111/PSA.46.NIV
+  - Psalms 47 @defer(2020-07-28) @due(2020-07-28)
+    https://www.bible.com/bible/111/PSA.47.NIV
+  - Psalms 48 @defer(2020-07-28) @due(2020-07-28)
+    https://www.bible.com/bible/111/PSA.48.NIV
+  - Acts 28 @defer(2020-07-28) @due(2020-07-28)
+    https://www.bible.com/bible/111/ACT.28.NIV
+  - Psalms 49 @defer(2020-07-29) @due(2020-07-29)
+    https://www.bible.com/bible/111/PSA.49.NIV
+  - Psalms 50 @defer(2020-07-29) @due(2020-07-29)
+    https://www.bible.com/bible/111/PSA.50.NIV
+  - Romans 1 @defer(2020-07-29) @due(2020-07-29)
+    https://www.bible.com/bible/111/ROM.1.NIV
+  - Psalms 51 @defer(2020-07-30) @due(2020-07-30)
+    https://www.bible.com/bible/111/PSA.51.NIV
+  - Psalms 52 @defer(2020-07-30) @due(2020-07-30)
+    https://www.bible.com/bible/111/PSA.52.NIV
+  - Psalms 53 @defer(2020-07-30) @due(2020-07-30)
+    https://www.bible.com/bible/111/PSA.53.NIV
+  - Romans 2 @defer(2020-07-30) @due(2020-07-30)
+    https://www.bible.com/bible/111/ROM.2.NIV
+  - Psalms 54 @defer(2020-07-31) @due(2020-07-31)
+    https://www.bible.com/bible/111/PSA.54.NIV
+  - Psalms 55 @defer(2020-07-31) @due(2020-07-31)
+    https://www.bible.com/bible/111/PSA.55.NIV
+  - Psalms 56 @defer(2020-07-31) @due(2020-07-31)
+    https://www.bible.com/bible/111/PSA.56.NIV
+  - Romans 3 @defer(2020-07-31) @due(2020-07-31)
+    https://www.bible.com/bible/111/ROM.3.NIV
+  - Psalms 57 @defer(2020-08-01) @due(2020-08-01)
+    https://www.bible.com/bible/111/PSA.57.NIV
+  - Psalms 58 @defer(2020-08-01) @due(2020-08-01)
+    https://www.bible.com/bible/111/PSA.58.NIV
+  - Psalms 59 @defer(2020-08-01) @due(2020-08-01)
+    https://www.bible.com/bible/111/PSA.59.NIV
+  - Romans 4 @defer(2020-08-01) @due(2020-08-01)
+    https://www.bible.com/bible/111/ROM.4.NIV
+  - Psalms 60 @defer(2020-08-02) @due(2020-08-02)
+    https://www.bible.com/bible/111/PSA.60.NIV
+  - Psalms 61 @defer(2020-08-02) @due(2020-08-02)
+    https://www.bible.com/bible/111/PSA.61.NIV
+  - Psalms 62 @defer(2020-08-02) @due(2020-08-02)
+    https://www.bible.com/bible/111/PSA.62.NIV
+  - Romans 5 @defer(2020-08-02) @due(2020-08-02)
+    https://www.bible.com/bible/111/ROM.5.NIV
+  - Psalms 63 @defer(2020-08-03) @due(2020-08-03)
+    https://www.bible.com/bible/111/PSA.63.NIV
+  - Psalms 64 @defer(2020-08-03) @due(2020-08-03)
+    https://www.bible.com/bible/111/PSA.64.NIV
+  - Psalms 65 @defer(2020-08-03) @due(2020-08-03)
+    https://www.bible.com/bible/111/PSA.65.NIV
+  - Romans 6 @defer(2020-08-03) @due(2020-08-03)
+    https://www.bible.com/bible/111/ROM.6.NIV
+  - Psalms 66 @defer(2020-08-04) @due(2020-08-04)
+    https://www.bible.com/bible/111/PSA.66.NIV
+  - Psalms 67 @defer(2020-08-04) @due(2020-08-04)
+    https://www.bible.com/bible/111/PSA.67.NIV
+  - Romans 7 @defer(2020-08-04) @due(2020-08-04)
+    https://www.bible.com/bible/111/ROM.7.NIV
+  - Psalms 68 @defer(2020-08-05) @due(2020-08-05)
+    https://www.bible.com/bible/111/PSA.68.NIV
+  - Psalms 69 @defer(2020-08-05) @due(2020-08-05)
+    https://www.bible.com/bible/111/PSA.69.NIV
+  - Psalms 70 @defer(2020-08-06) @due(2020-08-06)
+    https://www.bible.com/bible/111/PSA.70.NIV
+  - Psalms 71 @defer(2020-08-06) @due(2020-08-06)
+    https://www.bible.com/bible/111/PSA.71.NIV
+  - Romans 8 @defer(2020-08-06) @due(2020-08-06)
+    https://www.bible.com/bible/111/ROM.8.NIV
+  - Psalms 72 @defer(2020-08-07) @due(2020-08-07)
+    https://www.bible.com/bible/111/PSA.72.NIV
+  - Psalms 73 @defer(2020-08-07) @due(2020-08-07)
+    https://www.bible.com/bible/111/PSA.73.NIV
+  - Romans 9 @defer(2020-08-07) @due(2020-08-07)
+    https://www.bible.com/bible/111/ROM.9.NIV
+  - Psalms 74 @defer(2020-08-08) @due(2020-08-08)
+    https://www.bible.com/bible/111/PSA.74.NIV
+  - Psalms 75 @defer(2020-08-08) @due(2020-08-08)
+    https://www.bible.com/bible/111/PSA.75.NIV
+  - Psalms 76 @defer(2020-08-08) @due(2020-08-08)
+    https://www.bible.com/bible/111/PSA.76.NIV
+  - Psalms 77 @defer(2020-08-09) @due(2020-08-09)
+    https://www.bible.com/bible/111/PSA.77.NIV
+  - Psalms 78 @defer(2020-08-09) @due(2020-08-09)
+    https://www.bible.com/bible/111/PSA.78.NIV
+  - Romans 10 @defer(2020-08-09) @due(2020-08-09)
+    https://www.bible.com/bible/111/ROM.10.NIV
+  - Psalms 79 @defer(2020-08-10) @due(2020-08-10)
+    https://www.bible.com/bible/111/PSA.79.NIV
+  - Psalms 80 @defer(2020-08-10) @due(2020-08-10)
+    https://www.bible.com/bible/111/PSA.80.NIV
+  - Romans 11 @defer(2020-08-10) @due(2020-08-10)
+    https://www.bible.com/bible/111/ROM.11.NIV
+  - Psalms 81 @defer(2020-08-11) @due(2020-08-11)
+    https://www.bible.com/bible/111/PSA.81.NIV
+  - Psalms 82 @defer(2020-08-11) @due(2020-08-11)
+    https://www.bible.com/bible/111/PSA.82.NIV
+  - Psalms 83 @defer(2020-08-11) @due(2020-08-11)
+    https://www.bible.com/bible/111/PSA.83.NIV
+  - Psalms 84 @defer(2020-08-12) @due(2020-08-12)
+    https://www.bible.com/bible/111/PSA.84.NIV
+  - Psalms 85 @defer(2020-08-12) @due(2020-08-12)
+    https://www.bible.com/bible/111/PSA.85.NIV
+  - Psalms 86 @defer(2020-08-12) @due(2020-08-12)
+    https://www.bible.com/bible/111/PSA.86.NIV
+  - Romans 12 @defer(2020-08-12) @due(2020-08-12)
+    https://www.bible.com/bible/111/ROM.12.NIV
+  - Psalms 87 @defer(2020-08-13) @due(2020-08-13)
+    https://www.bible.com/bible/111/PSA.87.NIV
+  - Psalms 88 @defer(2020-08-13) @due(2020-08-13)
+    https://www.bible.com/bible/111/PSA.88.NIV
+  - Romans 13 @defer(2020-08-13) @due(2020-08-13)
+    https://www.bible.com/bible/111/ROM.13.NIV
+  - Psalms 89 @defer(2020-08-14) @due(2020-08-14)
+    https://www.bible.com/bible/111/PSA.89.NIV
+  - Psalms 90 @defer(2020-08-14) @due(2020-08-14)
+    https://www.bible.com/bible/111/PSA.90.NIV
+  - Romans 14 @defer(2020-08-14) @due(2020-08-14)
+    https://www.bible.com/bible/111/ROM.14.NIV
+  - Psalms 91 @defer(2020-08-15) @due(2020-08-15)
+    https://www.bible.com/bible/111/PSA.91.NIV
+  - Psalms 92 @defer(2020-08-15) @due(2020-08-15)
+    https://www.bible.com/bible/111/PSA.92.NIV
+  - Psalms 93 @defer(2020-08-15) @due(2020-08-15)
+    https://www.bible.com/bible/111/PSA.93.NIV
+  - Romans 15 @defer(2020-08-15) @due(2020-08-15)
+    https://www.bible.com/bible/111/ROM.15.NIV
+  - Psalms 94 @defer(2020-08-16) @due(2020-08-16)
+    https://www.bible.com/bible/111/PSA.94.NIV
+  - Psalms 95 @defer(2020-08-16) @due(2020-08-16)
+    https://www.bible.com/bible/111/PSA.95.NIV
+  - Psalms 96 @defer(2020-08-16) @due(2020-08-16)
+    https://www.bible.com/bible/111/PSA.96.NIV
+  - Psalms 97 @defer(2020-08-17) @due(2020-08-17)
+    https://www.bible.com/bible/111/PSA.97.NIV
+  - Psalms 98 @defer(2020-08-17) @due(2020-08-17)
+    https://www.bible.com/bible/111/PSA.98.NIV
+  - Psalms 99 @defer(2020-08-17) @due(2020-08-17)
+    https://www.bible.com/bible/111/PSA.99.NIV
+  - Romans 16 @defer(2020-08-17) @due(2020-08-17)
+    https://www.bible.com/bible/111/ROM.16.NIV
+  - Psalms 100 @defer(2020-08-18) @due(2020-08-18)
+    https://www.bible.com/bible/111/PSA.100.NIV
+  - Psalms 101 @defer(2020-08-18) @due(2020-08-18)
+    https://www.bible.com/bible/111/PSA.101.NIV
+  - Psalms 102 @defer(2020-08-18) @due(2020-08-18)
+    https://www.bible.com/bible/111/PSA.102.NIV
+  - 1 Corinthians 1 @defer(2020-08-18) @due(2020-08-18)
+    https://www.bible.com/bible/111/1CO.1.NIV
+  - Psalms 103 @defer(2020-08-19) @due(2020-08-19)
+    https://www.bible.com/bible/111/PSA.103.NIV
+  - Psalms 104 @defer(2020-08-19) @due(2020-08-19)
+    https://www.bible.com/bible/111/PSA.104.NIV
+  - 1 Corinthians 2 @defer(2020-08-19) @due(2020-08-19)
+    https://www.bible.com/bible/111/1CO.2.NIV
+  - Psalms 105 @defer(2020-08-20) @due(2020-08-20)
+    https://www.bible.com/bible/111/PSA.105.NIV
+  - Psalms 106 @defer(2020-08-20) @due(2020-08-20)
+    https://www.bible.com/bible/111/PSA.106.NIV
+  - 1 Corinthians 3 @defer(2020-08-20) @due(2020-08-20)
+    https://www.bible.com/bible/111/1CO.3.NIV
+  - Psalms 107 @defer(2020-08-21) @due(2020-08-21)
+    https://www.bible.com/bible/111/PSA.107.NIV
+  - Psalms 108 @defer(2020-08-21) @due(2020-08-21)
+    https://www.bible.com/bible/111/PSA.108.NIV
+  - Psalms 109 @defer(2020-08-21) @due(2020-08-21)
+    https://www.bible.com/bible/111/PSA.109.NIV
+  - 1 Corinthians 4 @defer(2020-08-21) @due(2020-08-21)
+    https://www.bible.com/bible/111/1CO.4.NIV
+  - Psalms 110 @defer(2020-08-22) @due(2020-08-22)
+    https://www.bible.com/bible/111/PSA.110.NIV
+  - Psalms 111 @defer(2020-08-22) @due(2020-08-22)
+    https://www.bible.com/bible/111/PSA.111.NIV
+  - Psalms 112 @defer(2020-08-22) @due(2020-08-22)
+    https://www.bible.com/bible/111/PSA.112.NIV
+  - 1 Corinthians 5 @defer(2020-08-22) @due(2020-08-22)
+    https://www.bible.com/bible/111/1CO.5.NIV
+  - Psalms 113 @defer(2020-08-23) @due(2020-08-23)
+    https://www.bible.com/bible/111/PSA.113.NIV
+  - Psalms 114 @defer(2020-08-23) @due(2020-08-23)
+    https://www.bible.com/bible/111/PSA.114.NIV
+  - Psalms 115 @defer(2020-08-23) @due(2020-08-23)
+    https://www.bible.com/bible/111/PSA.115.NIV
+  - 1 Corinthians 6 @defer(2020-08-23) @due(2020-08-23)
+    https://www.bible.com/bible/111/1CO.6.NIV
+  - Psalms 116 @defer(2020-08-24) @due(2020-08-24)
+    https://www.bible.com/bible/111/PSA.116.NIV
+  - Psalms 117 @defer(2020-08-24) @due(2020-08-24)
+    https://www.bible.com/bible/111/PSA.117.NIV
+  - Psalms 118 @defer(2020-08-24) @due(2020-08-24)
+    https://www.bible.com/bible/111/PSA.118.NIV
+  - 1 Corinthians 7 @defer(2020-08-24) @due(2020-08-24)
+    https://www.bible.com/bible/111/1CO.7.NIV
+  - Psalms 119 @defer(2020-08-25) @due(2020-08-25)
+    https://www.bible.com/bible/111/PSA.119.NIV
+  - Psalms 120 @defer(2020-08-26) @due(2020-08-26)
+    https://www.bible.com/bible/111/PSA.120.NIV
+  - 1 Corinthians 8 @defer(2020-08-26) @due(2020-08-26)
+    https://www.bible.com/bible/111/1CO.8.NIV
+  - Psalms 121 @defer(2020-08-27) @due(2020-08-27)
+    https://www.bible.com/bible/111/PSA.121.NIV
+  - Psalms 122 @defer(2020-08-27) @due(2020-08-27)
+    https://www.bible.com/bible/111/PSA.122.NIV
+  - 1 Corinthians 9 @defer(2020-08-27) @due(2020-08-27)
+    https://www.bible.com/bible/111/1CO.9.NIV
+  - Psalms 123 @defer(2020-08-28) @due(2020-08-28)
+    https://www.bible.com/bible/111/PSA.123.NIV
+  - Psalms 124 @defer(2020-08-28) @due(2020-08-28)
+    https://www.bible.com/bible/111/PSA.124.NIV
+  - Psalms 125 @defer(2020-08-28) @due(2020-08-28)
+    https://www.bible.com/bible/111/PSA.125.NIV
+  - 1 Corinthians 10 @defer(2020-08-28) @due(2020-08-28)
+    https://www.bible.com/bible/111/1CO.10.NIV
+  - Psalms 126 @defer(2020-08-29) @due(2020-08-29)
+    https://www.bible.com/bible/111/PSA.126.NIV
+  - Psalms 127 @defer(2020-08-29) @due(2020-08-29)
+    https://www.bible.com/bible/111/PSA.127.NIV
+  - Psalms 128 @defer(2020-08-29) @due(2020-08-29)
+    https://www.bible.com/bible/111/PSA.128.NIV
+  - Psalms 129 @defer(2020-08-30) @due(2020-08-30)
+    https://www.bible.com/bible/111/PSA.129.NIV
+  - Psalms 130 @defer(2020-08-30) @due(2020-08-30)
+    https://www.bible.com/bible/111/PSA.130.NIV
+  - Psalms 131 @defer(2020-08-30) @due(2020-08-30)
+    https://www.bible.com/bible/111/PSA.131.NIV
+  - 1 Corinthians 11 @defer(2020-08-30) @due(2020-08-30)
+    https://www.bible.com/bible/111/1CO.11.NIV
+  - Psalms 132 @defer(2020-08-31) @due(2020-08-31)
+    https://www.bible.com/bible/111/PSA.132.NIV
+  - Psalms 133 @defer(2020-08-31) @due(2020-08-31)
+    https://www.bible.com/bible/111/PSA.133.NIV
+  - Psalms 134 @defer(2020-08-31) @due(2020-08-31)
+    https://www.bible.com/bible/111/PSA.134.NIV
+  - Psalms 135 @defer(2020-09-01) @due(2020-09-01)
+    https://www.bible.com/bible/111/PSA.135.NIV
+  - Psalms 136 @defer(2020-09-01) @due(2020-09-01)
+    https://www.bible.com/bible/111/PSA.136.NIV
+  - 1 Corinthians 12 @defer(2020-09-01) @due(2020-09-01)
+    https://www.bible.com/bible/111/1CO.12.NIV
+  - Psalms 137 @defer(2020-09-02) @due(2020-09-02)
+    https://www.bible.com/bible/111/PSA.137.NIV
+  - Psalms 138 @defer(2020-09-02) @due(2020-09-02)
+    https://www.bible.com/bible/111/PSA.138.NIV
+  - Psalms 139 @defer(2020-09-02) @due(2020-09-02)
+    https://www.bible.com/bible/111/PSA.139.NIV
+  - 1 Corinthians 13 @defer(2020-09-02) @due(2020-09-02)
+    https://www.bible.com/bible/111/1CO.13.NIV
+  - Psalms 140 @defer(2020-09-03) @due(2020-09-03)
+    https://www.bible.com/bible/111/PSA.140.NIV
+  - Psalms 141 @defer(2020-09-03) @due(2020-09-03)
+    https://www.bible.com/bible/111/PSA.141.NIV
+  - Psalms 142 @defer(2020-09-03) @due(2020-09-03)
+    https://www.bible.com/bible/111/PSA.142.NIV
+  - Psalms 143 @defer(2020-09-04) @due(2020-09-04)
+    https://www.bible.com/bible/111/PSA.143.NIV
+  - Psalms 144 @defer(2020-09-04) @due(2020-09-04)
+    https://www.bible.com/bible/111/PSA.144.NIV
+  - Psalms 145 @defer(2020-09-04) @due(2020-09-04)
+    https://www.bible.com/bible/111/PSA.145.NIV
+  - 1 Corinthians 14 @defer(2020-09-04) @due(2020-09-04)
+    https://www.bible.com/bible/111/1CO.14.NIV
+  - Psalms 146 @defer(2020-09-05) @due(2020-09-05)
+    https://www.bible.com/bible/111/PSA.146.NIV
+  - Psalms 147 @defer(2020-09-05) @due(2020-09-05)
+    https://www.bible.com/bible/111/PSA.147.NIV
+  - 1 Corinthians 15 @defer(2020-09-05) @due(2020-09-05)
+    https://www.bible.com/bible/111/1CO.15.NIV
+  - Psalms 148 @defer(2020-09-06) @due(2020-09-06)
+    https://www.bible.com/bible/111/PSA.148.NIV
+  - Psalms 149 @defer(2020-09-06) @due(2020-09-06)
+    https://www.bible.com/bible/111/PSA.149.NIV
+  - Psalms 150 @defer(2020-09-06) @due(2020-09-06)
+    https://www.bible.com/bible/111/PSA.150.NIV
+  - Proverbs 1 @defer(2020-09-07) @due(2020-09-07)
+    https://www.bible.com/bible/111/PRO.1.NIV
+  - Proverbs 2 @defer(2020-09-07) @due(2020-09-07)
+    https://www.bible.com/bible/111/PRO.2.NIV
+  - 1 Corinthians 16 @defer(2020-09-07) @due(2020-09-07)
+    https://www.bible.com/bible/111/1CO.16.NIV
+  - Proverbs 3 @defer(2020-09-08) @due(2020-09-08)
+    https://www.bible.com/bible/111/PRO.3.NIV
+  - Proverbs 4 @defer(2020-09-08) @due(2020-09-08)
+    https://www.bible.com/bible/111/PRO.4.NIV
+  - Proverbs 5 @defer(2020-09-08) @due(2020-09-08)
+    https://www.bible.com/bible/111/PRO.5.NIV
+  - 2 Corinthians 1 @defer(2020-09-08) @due(2020-09-08)
+    https://www.bible.com/bible/111/2CO.1.NIV
+  - Proverbs 6 @defer(2020-09-09) @due(2020-09-09)
+    https://www.bible.com/bible/111/PRO.6.NIV
+  - Proverbs 7 @defer(2020-09-09) @due(2020-09-09)
+    https://www.bible.com/bible/111/PRO.7.NIV
+  - 2 Corinthians 2 @defer(2020-09-09) @due(2020-09-09)
+    https://www.bible.com/bible/111/2CO.2.NIV
+  - Proverbs 8 @defer(2020-09-10) @due(2020-09-10)
+    https://www.bible.com/bible/111/PRO.8.NIV
+  - Proverbs 9 @defer(2020-09-10) @due(2020-09-10)
+    https://www.bible.com/bible/111/PRO.9.NIV
+  - 2 Corinthians 3 @defer(2020-09-10) @due(2020-09-10)
+    https://www.bible.com/bible/111/2CO.3.NIV
+  - Proverbs 10 @defer(2020-09-11) @due(2020-09-11)
+    https://www.bible.com/bible/111/PRO.10.NIV
+  - Proverbs 11 @defer(2020-09-11) @due(2020-09-11)
+    https://www.bible.com/bible/111/PRO.11.NIV
+  - Proverbs 12 @defer(2020-09-11) @due(2020-09-11)
+    https://www.bible.com/bible/111/PRO.12.NIV
+  - 2 Corinthians 4 @defer(2020-09-11) @due(2020-09-11)
+    https://www.bible.com/bible/111/2CO.4.NIV
+  - Proverbs 13 @defer(2020-09-12) @due(2020-09-12)
+    https://www.bible.com/bible/111/PRO.13.NIV
+  - Proverbs 14 @defer(2020-09-12) @due(2020-09-12)
+    https://www.bible.com/bible/111/PRO.14.NIV
+  - Proverbs 15 @defer(2020-09-12) @due(2020-09-12)
+    https://www.bible.com/bible/111/PRO.15.NIV
+  - 2 Corinthians 5 @defer(2020-09-12) @due(2020-09-12)
+    https://www.bible.com/bible/111/2CO.5.NIV
+  - Proverbs 16 @defer(2020-09-13) @due(2020-09-13)
+    https://www.bible.com/bible/111/PRO.16.NIV
+  - Proverbs 17 @defer(2020-09-13) @due(2020-09-13)
+    https://www.bible.com/bible/111/PRO.17.NIV
+  - Proverbs 18 @defer(2020-09-13) @due(2020-09-13)
+    https://www.bible.com/bible/111/PRO.18.NIV
+  - 2 Corinthians 6 @defer(2020-09-13) @due(2020-09-13)
+    https://www.bible.com/bible/111/2CO.6.NIV
+  - Proverbs 19 @defer(2020-09-14) @due(2020-09-14)
+    https://www.bible.com/bible/111/PRO.19.NIV
+  - Proverbs 20 @defer(2020-09-14) @due(2020-09-14)
+    https://www.bible.com/bible/111/PRO.20.NIV
+  - Proverbs 21 @defer(2020-09-14) @due(2020-09-14)
+    https://www.bible.com/bible/111/PRO.21.NIV
+  - 2 Corinthians 7 @defer(2020-09-14) @due(2020-09-14)
+    https://www.bible.com/bible/111/2CO.7.NIV
+  - Proverbs 22 @defer(2020-09-15) @due(2020-09-15)
+    https://www.bible.com/bible/111/PRO.22.NIV
+  - Proverbs 23 @defer(2020-09-15) @due(2020-09-15)
+    https://www.bible.com/bible/111/PRO.23.NIV
+  - Proverbs 24 @defer(2020-09-15) @due(2020-09-15)
+    https://www.bible.com/bible/111/PRO.24.NIV
+  - 2 Corinthians 8 @defer(2020-09-15) @due(2020-09-15)
+    https://www.bible.com/bible/111/2CO.8.NIV
+  - Proverbs 25 @defer(2020-09-16) @due(2020-09-16)
+    https://www.bible.com/bible/111/PRO.25.NIV
+  - Proverbs 26 @defer(2020-09-16) @due(2020-09-16)
+    https://www.bible.com/bible/111/PRO.26.NIV
+  - 2 Corinthians 9 @defer(2020-09-16) @due(2020-09-16)
+    https://www.bible.com/bible/111/2CO.9.NIV
+  - Proverbs 27 @defer(2020-09-17) @due(2020-09-17)
+    https://www.bible.com/bible/111/PRO.27.NIV
+  - Proverbs 28 @defer(2020-09-17) @due(2020-09-17)
+    https://www.bible.com/bible/111/PRO.28.NIV
+  - Proverbs 29 @defer(2020-09-17) @due(2020-09-17)
+    https://www.bible.com/bible/111/PRO.29.NIV
+  - 2 Corinthians 10 @defer(2020-09-17) @due(2020-09-17)
+    https://www.bible.com/bible/111/2CO.10.NIV
+  - Proverbs 30 @defer(2020-09-18) @due(2020-09-18)
+    https://www.bible.com/bible/111/PRO.30.NIV
+  - Proverbs 31 @defer(2020-09-18) @due(2020-09-18)
+    https://www.bible.com/bible/111/PRO.31.NIV
+  - 2 Corinthians 11 @defer(2020-09-18) @due(2020-09-18)
+    https://www.bible.com/bible/111/2CO.11.NIV
+  - Ecclesiastes 1 @defer(2020-09-19) @due(2020-09-19)
+    https://www.bible.com/bible/111/ECC.1.NIV
+  - Ecclesiastes 2 @defer(2020-09-19) @due(2020-09-19)
+    https://www.bible.com/bible/111/ECC.2.NIV
+  - Ecclesiastes 3 @defer(2020-09-19) @due(2020-09-19)
+    https://www.bible.com/bible/111/ECC.3.NIV
+  - Ecclesiastes 4 @defer(2020-09-20) @due(2020-09-20)
+    https://www.bible.com/bible/111/ECC.4.NIV
+  - Ecclesiastes 5 @defer(2020-09-20) @due(2020-09-20)
+    https://www.bible.com/bible/111/ECC.5.NIV
+  - Ecclesiastes 6 @defer(2020-09-20) @due(2020-09-20)
+    https://www.bible.com/bible/111/ECC.6.NIV
+  - 2 Corinthians 12 @defer(2020-09-20) @due(2020-09-20)
+    https://www.bible.com/bible/111/2CO.12.NIV
+  - Ecclesiastes 7 @defer(2020-09-21) @due(2020-09-21)
+    https://www.bible.com/bible/111/ECC.7.NIV
+  - Ecclesiastes 8 @defer(2020-09-21) @due(2020-09-21)
+    https://www.bible.com/bible/111/ECC.8.NIV
+  - Ecclesiastes 9 @defer(2020-09-21) @due(2020-09-21)
+    https://www.bible.com/bible/111/ECC.9.NIV
+  - 2 Corinthians 13 @defer(2020-09-21) @due(2020-09-21)
+    https://www.bible.com/bible/111/2CO.13.NIV
+  - Ecclesiastes 10 @defer(2020-09-22) @due(2020-09-22)
+    https://www.bible.com/bible/111/ECC.10.NIV
+  - Ecclesiastes 11 @defer(2020-09-22) @due(2020-09-22)
+    https://www.bible.com/bible/111/ECC.11.NIV
+  - Ecclesiastes 12 @defer(2020-09-22) @due(2020-09-22)
+    https://www.bible.com/bible/111/ECC.12.NIV
+  - Galatians 1 @defer(2020-09-22) @due(2020-09-22)
+    https://www.bible.com/bible/111/GAL.1.NIV
+  - Song of Songs 1 @defer(2020-09-23) @due(2020-09-23)
+    https://www.bible.com/bible/111/SNG.1.NIV
+  - Song of Songs 2 @defer(2020-09-23) @due(2020-09-23)
+    https://www.bible.com/bible/111/SNG.2.NIV
+  - Song of Songs 3 @defer(2020-09-23) @due(2020-09-23)
+    https://www.bible.com/bible/111/SNG.3.NIV
+  - Galatians 2 @defer(2020-09-23) @due(2020-09-23)
+    https://www.bible.com/bible/111/GAL.2.NIV
+  - Song of Songs 4 @defer(2020-09-24) @due(2020-09-24)
+    https://www.bible.com/bible/111/SNG.4.NIV
+  - Song of Songs 5 @defer(2020-09-24) @due(2020-09-24)
+    https://www.bible.com/bible/111/SNG.5.NIV
+  - Galatians 3 @defer(2020-09-24) @due(2020-09-24)
+    https://www.bible.com/bible/111/GAL.3.NIV
+  - Song of Songs 6 @defer(2020-09-25) @due(2020-09-25)
+    https://www.bible.com/bible/111/SNG.6.NIV
+  - Song of Songs 7 @defer(2020-09-25) @due(2020-09-25)
+    https://www.bible.com/bible/111/SNG.7.NIV
+  - Song of Songs 8 @defer(2020-09-25) @due(2020-09-25)
+    https://www.bible.com/bible/111/SNG.8.NIV
+  - Galatians 4 @defer(2020-09-25) @due(2020-09-25)
+    https://www.bible.com/bible/111/GAL.4.NIV
+  - Isaiah 1 @defer(2020-09-26) @due(2020-09-26)
+    https://www.bible.com/bible/111/ISA.1.NIV
+  - Isaiah 2 @defer(2020-09-26) @due(2020-09-26)
+    https://www.bible.com/bible/111/ISA.2.NIV
+  - Galatians 5 @defer(2020-09-26) @due(2020-09-26)
+    https://www.bible.com/bible/111/GAL.5.NIV
+  - Isaiah 3 @defer(2020-09-27) @due(2020-09-27)
+    https://www.bible.com/bible/111/ISA.3.NIV
+  - Isaiah 4 @defer(2020-09-27) @due(2020-09-27)
+    https://www.bible.com/bible/111/ISA.4.NIV
+  - Galatians 6 @defer(2020-09-27) @due(2020-09-27)
+    https://www.bible.com/bible/111/GAL.6.NIV
+  - Isaiah 5 @defer(2020-09-28) @due(2020-09-28)
+    https://www.bible.com/bible/111/ISA.5.NIV
+  - Isaiah 6 @defer(2020-09-28) @due(2020-09-28)
+    https://www.bible.com/bible/111/ISA.6.NIV
+  - Ephesians 1 @defer(2020-09-28) @due(2020-09-28)
+    https://www.bible.com/bible/111/EPH.1.NIV
+  - Isaiah 7 @defer(2020-09-29) @due(2020-09-29)
+    https://www.bible.com/bible/111/ISA.7.NIV
+  - Isaiah 8 @defer(2020-09-29) @due(2020-09-29)
+    https://www.bible.com/bible/111/ISA.8.NIV
+  - Ephesians 2 @defer(2020-09-29) @due(2020-09-29)
+    https://www.bible.com/bible/111/EPH.2.NIV
+  - Isaiah 9 @defer(2020-09-30) @due(2020-09-30)
+    https://www.bible.com/bible/111/ISA.9.NIV
+  - Isaiah 10 @defer(2020-09-30) @due(2020-09-30)
+    https://www.bible.com/bible/111/ISA.10.NIV
+  - Ephesians 3 @defer(2020-09-30) @due(2020-09-30)
+    https://www.bible.com/bible/111/EPH.3.NIV
+  - Isaiah 11 @defer(2020-10-01) @due(2020-10-01)
+    https://www.bible.com/bible/111/ISA.11.NIV
+  - Isaiah 12 @defer(2020-10-01) @due(2020-10-01)
+    https://www.bible.com/bible/111/ISA.12.NIV
+  - Isaiah 13 @defer(2020-10-01) @due(2020-10-01)
+    https://www.bible.com/bible/111/ISA.13.NIV
+  - Ephesians 4 @defer(2020-10-01) @due(2020-10-01)
+    https://www.bible.com/bible/111/EPH.4.NIV
+  - Isaiah 14 @defer(2020-10-02) @due(2020-10-02)
+    https://www.bible.com/bible/111/ISA.14.NIV
+  - Isaiah 15 @defer(2020-10-02) @due(2020-10-02)
+    https://www.bible.com/bible/111/ISA.15.NIV
+  - Isaiah 16 @defer(2020-10-02) @due(2020-10-02)
+    https://www.bible.com/bible/111/ISA.16.NIV
+  - Isaiah 17 @defer(2020-10-03) @due(2020-10-03)
+    https://www.bible.com/bible/111/ISA.17.NIV
+  - Isaiah 18 @defer(2020-10-03) @due(2020-10-03)
+    https://www.bible.com/bible/111/ISA.18.NIV
+  - Isaiah 19 @defer(2020-10-03) @due(2020-10-03)
+    https://www.bible.com/bible/111/ISA.19.NIV
+  - Ephesians 5 @defer(2020-10-03) @due(2020-10-03)
+    https://www.bible.com/bible/111/EPH.5.NIV
+  - Isaiah 20 @defer(2020-10-04) @due(2020-10-04)
+    https://www.bible.com/bible/111/ISA.20.NIV
+  - Isaiah 21 @defer(2020-10-04) @due(2020-10-04)
+    https://www.bible.com/bible/111/ISA.21.NIV
+  - Isaiah 22 @defer(2020-10-04) @due(2020-10-04)
+    https://www.bible.com/bible/111/ISA.22.NIV
+  - Ephesians 6 @defer(2020-10-04) @due(2020-10-04)
+    https://www.bible.com/bible/111/EPH.6.NIV
+  - Isaiah 23 @defer(2020-10-05) @due(2020-10-05)
+    https://www.bible.com/bible/111/ISA.23.NIV
+  - Isaiah 24 @defer(2020-10-05) @due(2020-10-05)
+    https://www.bible.com/bible/111/ISA.24.NIV
+  - Isaiah 25 @defer(2020-10-05) @due(2020-10-05)
+    https://www.bible.com/bible/111/ISA.25.NIV
+  - Philippians 1 @defer(2020-10-05) @due(2020-10-05)
+    https://www.bible.com/bible/111/PHP.1.NIV
+  - Isaiah 26 @defer(2020-10-06) @due(2020-10-06)
+    https://www.bible.com/bible/111/ISA.26.NIV
+  - Isaiah 27 @defer(2020-10-06) @due(2020-10-06)
+    https://www.bible.com/bible/111/ISA.27.NIV
+  - Philippians 2 @defer(2020-10-06) @due(2020-10-06)
+    https://www.bible.com/bible/111/PHP.2.NIV
+  - Isaiah 28 @defer(2020-10-07) @due(2020-10-07)
+    https://www.bible.com/bible/111/ISA.28.NIV
+  - Isaiah 29 @defer(2020-10-07) @due(2020-10-07)
+    https://www.bible.com/bible/111/ISA.29.NIV
+  - Philippians 3 @defer(2020-10-07) @due(2020-10-07)
+    https://www.bible.com/bible/111/PHP.3.NIV
+  - Isaiah 30 @defer(2020-10-08) @due(2020-10-08)
+    https://www.bible.com/bible/111/ISA.30.NIV
+  - Isaiah 31 @defer(2020-10-08) @due(2020-10-08)
+    https://www.bible.com/bible/111/ISA.31.NIV
+  - Philippians 4 @defer(2020-10-08) @due(2020-10-08)
+    https://www.bible.com/bible/111/PHP.4.NIV
+  - Isaiah 32 @defer(2020-10-09) @due(2020-10-09)
+    https://www.bible.com/bible/111/ISA.32.NIV
+  - Isaiah 33 @defer(2020-10-09) @due(2020-10-09)
+    https://www.bible.com/bible/111/ISA.33.NIV
+  - Colossians 1 @defer(2020-10-09) @due(2020-10-09)
+    https://www.bible.com/bible/111/COL.1.NIV
+  - Isaiah 34 @defer(2020-10-10) @due(2020-10-10)
+    https://www.bible.com/bible/111/ISA.34.NIV
+  - Isaiah 35 @defer(2020-10-10) @due(2020-10-10)
+    https://www.bible.com/bible/111/ISA.35.NIV
+  - Isaiah 36 @defer(2020-10-10) @due(2020-10-10)
+    https://www.bible.com/bible/111/ISA.36.NIV
+  - Colossians 2 @defer(2020-10-10) @due(2020-10-10)
+    https://www.bible.com/bible/111/COL.2.NIV
+  - Isaiah 37 @defer(2020-10-11) @due(2020-10-11)
+    https://www.bible.com/bible/111/ISA.37.NIV
+  - Isaiah 38 @defer(2020-10-11) @due(2020-10-11)
+    https://www.bible.com/bible/111/ISA.38.NIV
+  - Colossians 3 @defer(2020-10-11) @due(2020-10-11)
+    https://www.bible.com/bible/111/COL.3.NIV
+  - Isaiah 39 @defer(2020-10-12) @due(2020-10-12)
+    https://www.bible.com/bible/111/ISA.39.NIV
+  - Isaiah 40 @defer(2020-10-12) @due(2020-10-12)
+    https://www.bible.com/bible/111/ISA.40.NIV
+  - Colossians 4 @defer(2020-10-12) @due(2020-10-12)
+    https://www.bible.com/bible/111/COL.4.NIV
+  - Isaiah 41 @defer(2020-10-13) @due(2020-10-13)
+    https://www.bible.com/bible/111/ISA.41.NIV
+  - Isaiah 42 @defer(2020-10-13) @due(2020-10-13)
+    https://www.bible.com/bible/111/ISA.42.NIV
+  - 1 Thessalonians 1 @defer(2020-10-13) @due(2020-10-13)
+    https://www.bible.com/bible/111/1TH.1.NIV
+  - Isaiah 43 @defer(2020-10-14) @due(2020-10-14)
+    https://www.bible.com/bible/111/ISA.43.NIV
+  - Isaiah 44 @defer(2020-10-14) @due(2020-10-14)
+    https://www.bible.com/bible/111/ISA.44.NIV
+  - 1 Thessalonians 2 @defer(2020-10-14) @due(2020-10-14)
+    https://www.bible.com/bible/111/1TH.2.NIV
+  - Isaiah 45 @defer(2020-10-15) @due(2020-10-15)
+    https://www.bible.com/bible/111/ISA.45.NIV
+  - Isaiah 46 @defer(2020-10-15) @due(2020-10-15)
+    https://www.bible.com/bible/111/ISA.46.NIV
+  - 1 Thessalonians 3 @defer(2020-10-15) @due(2020-10-15)
+    https://www.bible.com/bible/111/1TH.3.NIV
+  - Isaiah 47 @defer(2020-10-16) @due(2020-10-16)
+    https://www.bible.com/bible/111/ISA.47.NIV
+  - Isaiah 48 @defer(2020-10-16) @due(2020-10-16)
+    https://www.bible.com/bible/111/ISA.48.NIV
+  - Isaiah 49 @defer(2020-10-16) @due(2020-10-16)
+    https://www.bible.com/bible/111/ISA.49.NIV
+  - 1 Thessalonians 4 @defer(2020-10-16) @due(2020-10-16)
+    https://www.bible.com/bible/111/1TH.4.NIV
+  - Isaiah 50 @defer(2020-10-17) @due(2020-10-17)
+    https://www.bible.com/bible/111/ISA.50.NIV
+  - Isaiah 51 @defer(2020-10-17) @due(2020-10-17)
+    https://www.bible.com/bible/111/ISA.51.NIV
+  - Isaiah 52 @defer(2020-10-17) @due(2020-10-17)
+    https://www.bible.com/bible/111/ISA.52.NIV
+  - 1 Thessalonians 5 @defer(2020-10-17) @due(2020-10-17)
+    https://www.bible.com/bible/111/1TH.5.NIV
+  - Isaiah 53 @defer(2020-10-18) @due(2020-10-18)
+    https://www.bible.com/bible/111/ISA.53.NIV
+  - Isaiah 54 @defer(2020-10-18) @due(2020-10-18)
+    https://www.bible.com/bible/111/ISA.54.NIV
+  - Isaiah 55 @defer(2020-10-18) @due(2020-10-18)
+    https://www.bible.com/bible/111/ISA.55.NIV
+  - 2 Thessalonians 1 @defer(2020-10-18) @due(2020-10-18)
+    https://www.bible.com/bible/111/2TH.1.NIV
+  - Isaiah 56 @defer(2020-10-19) @due(2020-10-19)
+    https://www.bible.com/bible/111/ISA.56.NIV
+  - Isaiah 57 @defer(2020-10-19) @due(2020-10-19)
+    https://www.bible.com/bible/111/ISA.57.NIV
+  - Isaiah 58 @defer(2020-10-19) @due(2020-10-19)
+    https://www.bible.com/bible/111/ISA.58.NIV
+  - 2 Thessalonians 2 @defer(2020-10-19) @due(2020-10-19)
+    https://www.bible.com/bible/111/2TH.2.NIV
+  - Isaiah 59 @defer(2020-10-20) @due(2020-10-20)
+    https://www.bible.com/bible/111/ISA.59.NIV
+  - Isaiah 60 @defer(2020-10-20) @due(2020-10-20)
+    https://www.bible.com/bible/111/ISA.60.NIV
+  - Isaiah 61 @defer(2020-10-20) @due(2020-10-20)
+    https://www.bible.com/bible/111/ISA.61.NIV
+  - 2 Thessalonians 3 @defer(2020-10-20) @due(2020-10-20)
+    https://www.bible.com/bible/111/2TH.3.NIV
+  - Isaiah 62 @defer(2020-10-21) @due(2020-10-21)
+    https://www.bible.com/bible/111/ISA.62.NIV
+  - Isaiah 63 @defer(2020-10-21) @due(2020-10-21)
+    https://www.bible.com/bible/111/ISA.63.NIV
+  - Isaiah 64 @defer(2020-10-21) @due(2020-10-21)
+    https://www.bible.com/bible/111/ISA.64.NIV
+  - 1 Timothy 1 @defer(2020-10-21) @due(2020-10-21)
+    https://www.bible.com/bible/111/1TI.1.NIV
+  - Isaiah 65 @defer(2020-10-22) @due(2020-10-22)
+    https://www.bible.com/bible/111/ISA.65.NIV
+  - Isaiah 66 @defer(2020-10-22) @due(2020-10-22)
+    https://www.bible.com/bible/111/ISA.66.NIV
+  - 1 Timothy 2 @defer(2020-10-22) @due(2020-10-22)
+    https://www.bible.com/bible/111/1TI.2.NIV
+  - Jeremiah 1 @defer(2020-10-23) @due(2020-10-23)
+    https://www.bible.com/bible/111/JER.1.NIV
+  - Jeremiah 2 @defer(2020-10-23) @due(2020-10-23)
+    https://www.bible.com/bible/111/JER.2.NIV
+  - 1 Timothy 3 @defer(2020-10-23) @due(2020-10-23)
+    https://www.bible.com/bible/111/1TI.3.NIV
+  - Jeremiah 3 @defer(2020-10-24) @due(2020-10-24)
+    https://www.bible.com/bible/111/JER.3.NIV
+  - Jeremiah 4 @defer(2020-10-24) @due(2020-10-24)
+    https://www.bible.com/bible/111/JER.4.NIV
+  - Jeremiah 5 @defer(2020-10-24) @due(2020-10-24)
+    https://www.bible.com/bible/111/JER.5.NIV
+  - 1 Timothy 4 @defer(2020-10-24) @due(2020-10-24)
+    https://www.bible.com/bible/111/1TI.4.NIV
+  - Jeremiah 6 @defer(2020-10-25) @due(2020-10-25)
+    https://www.bible.com/bible/111/JER.6.NIV
+  - Jeremiah 7 @defer(2020-10-25) @due(2020-10-25)
+    https://www.bible.com/bible/111/JER.7.NIV
+  - Jeremiah 8 @defer(2020-10-25) @due(2020-10-25)
+    https://www.bible.com/bible/111/JER.8.NIV
+  - 1 Timothy 5 @defer(2020-10-25) @due(2020-10-25)
+    https://www.bible.com/bible/111/1TI.5.NIV
+  - Jeremiah 9 @defer(2020-10-26) @due(2020-10-26)
+    https://www.bible.com/bible/111/JER.9.NIV
+  - Jeremiah 10 @defer(2020-10-26) @due(2020-10-26)
+    https://www.bible.com/bible/111/JER.10.NIV
+  - Jeremiah 11 @defer(2020-10-26) @due(2020-10-26)
+    https://www.bible.com/bible/111/JER.11.NIV
+  - 1 Timothy 6 @defer(2020-10-26) @due(2020-10-26)
+    https://www.bible.com/bible/111/1TI.6.NIV
+  - Jeremiah 12 @defer(2020-10-27) @due(2020-10-27)
+    https://www.bible.com/bible/111/JER.12.NIV
+  - Jeremiah 13 @defer(2020-10-27) @due(2020-10-27)
+    https://www.bible.com/bible/111/JER.13.NIV
+  - Jeremiah 14 @defer(2020-10-27) @due(2020-10-27)
+    https://www.bible.com/bible/111/JER.14.NIV
+  - 2 Timothy 1 @defer(2020-10-27) @due(2020-10-27)
+    https://www.bible.com/bible/111/2TI.1.NIV
+  - Jeremiah 15 @defer(2020-10-28) @due(2020-10-28)
+    https://www.bible.com/bible/111/JER.15.NIV
+  - Jeremiah 16 @defer(2020-10-28) @due(2020-10-28)
+    https://www.bible.com/bible/111/JER.16.NIV
+  - Jeremiah 17 @defer(2020-10-28) @due(2020-10-28)
+    https://www.bible.com/bible/111/JER.17.NIV
+  - 2 Timothy 2 @defer(2020-10-28) @due(2020-10-28)
+    https://www.bible.com/bible/111/2TI.2.NIV
+  - Jeremiah 18 @defer(2020-10-29) @due(2020-10-29)
+    https://www.bible.com/bible/111/JER.18.NIV
+  - Jeremiah 19 @defer(2020-10-29) @due(2020-10-29)
+    https://www.bible.com/bible/111/JER.19.NIV
+  - 2 Timothy 3 @defer(2020-10-29) @due(2020-10-29)
+    https://www.bible.com/bible/111/2TI.3.NIV
+  - Jeremiah 20 @defer(2020-10-30) @due(2020-10-30)
+    https://www.bible.com/bible/111/JER.20.NIV
+  - Jeremiah 21 @defer(2020-10-30) @due(2020-10-30)
+    https://www.bible.com/bible/111/JER.21.NIV
+  - 2 Timothy 4 @defer(2020-10-30) @due(2020-10-30)
+    https://www.bible.com/bible/111/2TI.4.NIV
+  - Jeremiah 22 @defer(2020-10-31) @due(2020-10-31)
+    https://www.bible.com/bible/111/JER.22.NIV
+  - Jeremiah 23 @defer(2020-10-31) @due(2020-10-31)
+    https://www.bible.com/bible/111/JER.23.NIV
+  - Titus 1 @defer(2020-10-31) @due(2020-10-31)
+    https://www.bible.com/bible/111/TIT.1.NIV
+  - Jeremiah 24 @defer(2020-11-01) @due(2020-11-01)
+    https://www.bible.com/bible/111/JER.24.NIV
+  - Jeremiah 25 @defer(2020-11-01) @due(2020-11-01)
+    https://www.bible.com/bible/111/JER.25.NIV
+  - Jeremiah 26 @defer(2020-11-01) @due(2020-11-01)
+    https://www.bible.com/bible/111/JER.26.NIV
+  - Titus 2 @defer(2020-11-01) @due(2020-11-01)
+    https://www.bible.com/bible/111/TIT.2.NIV
+  - Jeremiah 27 @defer(2020-11-02) @due(2020-11-02)
+    https://www.bible.com/bible/111/JER.27.NIV
+  - Jeremiah 28 @defer(2020-11-02) @due(2020-11-02)
+    https://www.bible.com/bible/111/JER.28.NIV
+  - Jeremiah 29 @defer(2020-11-02) @due(2020-11-02)
+    https://www.bible.com/bible/111/JER.29.NIV
+  - Titus 3 @defer(2020-11-02) @due(2020-11-02)
+    https://www.bible.com/bible/111/TIT.3.NIV
+  - Jeremiah 30 @defer(2020-11-03) @due(2020-11-03)
+    https://www.bible.com/bible/111/JER.30.NIV
+  - Jeremiah 31 @defer(2020-11-03) @due(2020-11-03)
+    https://www.bible.com/bible/111/JER.31.NIV
+  - Philemon 1 @defer(2020-11-03) @due(2020-11-03)
+    https://www.bible.com/bible/111/PHM.1.NIV
+  - Jeremiah 32 @defer(2020-11-04) @due(2020-11-04)
+    https://www.bible.com/bible/111/JER.32.NIV
+  - Jeremiah 33 @defer(2020-11-04) @due(2020-11-04)
+    https://www.bible.com/bible/111/JER.33.NIV
+  - Hebrews 1 @defer(2020-11-04) @due(2020-11-04)
+    https://www.bible.com/bible/111/HEB.1.NIV
+  - Jeremiah 34 @defer(2020-11-05) @due(2020-11-05)
+    https://www.bible.com/bible/111/JER.34.NIV
+  - Jeremiah 35 @defer(2020-11-05) @due(2020-11-05)
+    https://www.bible.com/bible/111/JER.35.NIV
+  - Jeremiah 36 @defer(2020-11-05) @due(2020-11-05)
+    https://www.bible.com/bible/111/JER.36.NIV
+  - Hebrews 2 @defer(2020-11-05) @due(2020-11-05)
+    https://www.bible.com/bible/111/HEB.2.NIV
+  - Jeremiah 37 @defer(2020-11-06) @due(2020-11-06)
+    https://www.bible.com/bible/111/JER.37.NIV
+  - Jeremiah 38 @defer(2020-11-06) @due(2020-11-06)
+    https://www.bible.com/bible/111/JER.38.NIV
+  - Jeremiah 39 @defer(2020-11-06) @due(2020-11-06)
+    https://www.bible.com/bible/111/JER.39.NIV
+  - Hebrews 3 @defer(2020-11-06) @due(2020-11-06)
+    https://www.bible.com/bible/111/HEB.3.NIV
+  - Jeremiah 40 @defer(2020-11-07) @due(2020-11-07)
+    https://www.bible.com/bible/111/JER.40.NIV
+  - Jeremiah 41 @defer(2020-11-07) @due(2020-11-07)
+    https://www.bible.com/bible/111/JER.41.NIV
+  - Jeremiah 42 @defer(2020-11-07) @due(2020-11-07)
+    https://www.bible.com/bible/111/JER.42.NIV
+  - Hebrews 4 @defer(2020-11-07) @due(2020-11-07)
+    https://www.bible.com/bible/111/HEB.4.NIV
+  - Jeremiah 43 @defer(2020-11-08) @due(2020-11-08)
+    https://www.bible.com/bible/111/JER.43.NIV
+  - Jeremiah 44 @defer(2020-11-08) @due(2020-11-08)
+    https://www.bible.com/bible/111/JER.44.NIV
+  - Jeremiah 45 @defer(2020-11-08) @due(2020-11-08)
+    https://www.bible.com/bible/111/JER.45.NIV
+  - Hebrews 5 @defer(2020-11-08) @due(2020-11-08)
+    https://www.bible.com/bible/111/HEB.5.NIV
+  - Jeremiah 46 @defer(2020-11-09) @due(2020-11-09)
+    https://www.bible.com/bible/111/JER.46.NIV
+  - Jeremiah 47 @defer(2020-11-09) @due(2020-11-09)
+    https://www.bible.com/bible/111/JER.47.NIV
+  - Hebrews 6 @defer(2020-11-09) @due(2020-11-09)
+    https://www.bible.com/bible/111/HEB.6.NIV
+  - Jeremiah 48 @defer(2020-11-10) @due(2020-11-10)
+    https://www.bible.com/bible/111/JER.48.NIV
+  - Jeremiah 49 @defer(2020-11-10) @due(2020-11-10)
+    https://www.bible.com/bible/111/JER.49.NIV
+  - Hebrews 7 @defer(2020-11-10) @due(2020-11-10)
+    https://www.bible.com/bible/111/HEB.7.NIV
+  - Jeremiah 50 @defer(2020-11-11) @due(2020-11-11)
+    https://www.bible.com/bible/111/JER.50.NIV
+  - Hebrews 8 @defer(2020-11-11) @due(2020-11-11)
+    https://www.bible.com/bible/111/HEB.8.NIV
+  - Jeremiah 51 @defer(2020-11-12) @due(2020-11-12)
+    https://www.bible.com/bible/111/JER.51.NIV
+  - Jeremiah 52 @defer(2020-11-12) @due(2020-11-12)
+    https://www.bible.com/bible/111/JER.52.NIV
+  - Hebrews 9 @defer(2020-11-12) @due(2020-11-12)
+    https://www.bible.com/bible/111/HEB.9.NIV
+  - Lamentations 1 @defer(2020-11-13) @due(2020-11-13)
+    https://www.bible.com/bible/111/LAM.1.NIV
+  - Lamentations 2 @defer(2020-11-13) @due(2020-11-13)
+    https://www.bible.com/bible/111/LAM.2.NIV
+  - Hebrews 10 @defer(2020-11-13) @due(2020-11-13)
+    https://www.bible.com/bible/111/HEB.10.NIV
+  - Lamentations 3 @defer(2020-11-14) @due(2020-11-14)
+    https://www.bible.com/bible/111/LAM.3.NIV
+  - Lamentations 4 @defer(2020-11-14) @due(2020-11-14)
+    https://www.bible.com/bible/111/LAM.4.NIV
+  - Lamentations 5 @defer(2020-11-14) @due(2020-11-14)
+    https://www.bible.com/bible/111/LAM.5.NIV
+  - Ezekiel 1 @defer(2020-11-15) @due(2020-11-15)
+    https://www.bible.com/bible/111/EZK.1.NIV
+  - Ezekiel 2 @defer(2020-11-15) @due(2020-11-15)
+    https://www.bible.com/bible/111/EZK.2.NIV
+  - Ezekiel 3 @defer(2020-11-16) @due(2020-11-16)
+    https://www.bible.com/bible/111/EZK.3.NIV
+  - Ezekiel 4 @defer(2020-11-16) @due(2020-11-16)
+    https://www.bible.com/bible/111/EZK.4.NIV
+  - Hebrews 11 @defer(2020-11-16) @due(2020-11-16)
+    https://www.bible.com/bible/111/HEB.11.NIV
+  - Ezekiel 5 @defer(2020-11-17) @due(2020-11-17)
+    https://www.bible.com/bible/111/EZK.5.NIV
+  - Ezekiel 6 @defer(2020-11-17) @due(2020-11-17)
+    https://www.bible.com/bible/111/EZK.6.NIV
+  - Ezekiel 7 @defer(2020-11-17) @due(2020-11-17)
+    https://www.bible.com/bible/111/EZK.7.NIV
+  - Hebrews 12 @defer(2020-11-17) @due(2020-11-17)
+    https://www.bible.com/bible/111/HEB.12.NIV
+  - Ezekiel 8 @defer(2020-11-18) @due(2020-11-18)
+    https://www.bible.com/bible/111/EZK.8.NIV
+  - Ezekiel 9 @defer(2020-11-18) @due(2020-11-18)
+    https://www.bible.com/bible/111/EZK.9.NIV
+  - Ezekiel 10 @defer(2020-11-18) @due(2020-11-18)
+    https://www.bible.com/bible/111/EZK.10.NIV
+  - Hebrews 13 @defer(2020-11-18) @due(2020-11-18)
+    https://www.bible.com/bible/111/HEB.13.NIV
+  - Ezekiel 11 @defer(2020-11-19) @due(2020-11-19)
+    https://www.bible.com/bible/111/EZK.11.NIV
+  - Ezekiel 12 @defer(2020-11-19) @due(2020-11-19)
+    https://www.bible.com/bible/111/EZK.12.NIV
+  - Ezekiel 13 @defer(2020-11-19) @due(2020-11-19)
+    https://www.bible.com/bible/111/EZK.13.NIV
+  - James 1 @defer(2020-11-19) @due(2020-11-19)
+    https://www.bible.com/bible/111/JAS.1.NIV
+  - Ezekiel 14 @defer(2020-11-20) @due(2020-11-20)
+    https://www.bible.com/bible/111/EZK.14.NIV
+  - Ezekiel 15 @defer(2020-11-20) @due(2020-11-20)
+    https://www.bible.com/bible/111/EZK.15.NIV
+  - James 2 @defer(2020-11-20) @due(2020-11-20)
+    https://www.bible.com/bible/111/JAS.2.NIV
+  - Ezekiel 16 @defer(2020-11-21) @due(2020-11-21)
+    https://www.bible.com/bible/111/EZK.16.NIV
+  - Ezekiel 17 @defer(2020-11-21) @due(2020-11-21)
+    https://www.bible.com/bible/111/EZK.17.NIV
+  - James 3 @defer(2020-11-21) @due(2020-11-21)
+    https://www.bible.com/bible/111/JAS.3.NIV
+  - Ezekiel 18 @defer(2020-11-22) @due(2020-11-22)
+    https://www.bible.com/bible/111/EZK.18.NIV
+  - Ezekiel 19 @defer(2020-11-22) @due(2020-11-22)
+    https://www.bible.com/bible/111/EZK.19.NIV
+  - James 4 @defer(2020-11-22) @due(2020-11-22)
+    https://www.bible.com/bible/111/JAS.4.NIV
+  - Ezekiel 20 @defer(2020-11-23) @due(2020-11-23)
+    https://www.bible.com/bible/111/EZK.20.NIV
+  - Ezekiel 21 @defer(2020-11-23) @due(2020-11-23)
+    https://www.bible.com/bible/111/EZK.21.NIV
+  - James 5 @defer(2020-11-23) @due(2020-11-23)
+    https://www.bible.com/bible/111/JAS.5.NIV
+  - Ezekiel 22 @defer(2020-11-24) @due(2020-11-24)
+    https://www.bible.com/bible/111/EZK.22.NIV
+  - Ezekiel 23 @defer(2020-11-24) @due(2020-11-24)
+    https://www.bible.com/bible/111/EZK.23.NIV
+  - 1 Peter 1 @defer(2020-11-24) @due(2020-11-24)
+    https://www.bible.com/bible/111/1PE.1.NIV
+  - Ezekiel 24 @defer(2020-11-25) @due(2020-11-25)
+    https://www.bible.com/bible/111/EZK.24.NIV
+  - Ezekiel 25 @defer(2020-11-25) @due(2020-11-25)
+    https://www.bible.com/bible/111/EZK.25.NIV
+  - Ezekiel 26 @defer(2020-11-25) @due(2020-11-25)
+    https://www.bible.com/bible/111/EZK.26.NIV
+  - 1 Peter 2 @defer(2020-11-25) @due(2020-11-25)
+    https://www.bible.com/bible/111/1PE.2.NIV
+  - Ezekiel 27 @defer(2020-11-26) @due(2020-11-26)
+    https://www.bible.com/bible/111/EZK.27.NIV
+  - Ezekiel 28 @defer(2020-11-26) @due(2020-11-26)
+    https://www.bible.com/bible/111/EZK.28.NIV
+  - Ezekiel 29 @defer(2020-11-26) @due(2020-11-26)
+    https://www.bible.com/bible/111/EZK.29.NIV
+  - 1 Peter 3 @defer(2020-11-26) @due(2020-11-26)
+    https://www.bible.com/bible/111/1PE.3.NIV
+  - Ezekiel 30 @defer(2020-11-27) @due(2020-11-27)
+    https://www.bible.com/bible/111/EZK.30.NIV
+  - Ezekiel 31 @defer(2020-11-27) @due(2020-11-27)
+    https://www.bible.com/bible/111/EZK.31.NIV
+  - Ezekiel 32 @defer(2020-11-27) @due(2020-11-27)
+    https://www.bible.com/bible/111/EZK.32.NIV
+  - 1 Peter 4 @defer(2020-11-27) @due(2020-11-27)
+    https://www.bible.com/bible/111/1PE.4.NIV
+  - Ezekiel 33 @defer(2020-11-28) @due(2020-11-28)
+    https://www.bible.com/bible/111/EZK.33.NIV
+  - Ezekiel 34 @defer(2020-11-28) @due(2020-11-28)
+    https://www.bible.com/bible/111/EZK.34.NIV
+  - 1 Peter 5 @defer(2020-11-28) @due(2020-11-28)
+    https://www.bible.com/bible/111/1PE.5.NIV
+  - Ezekiel 35 @defer(2020-11-29) @due(2020-11-29)
+    https://www.bible.com/bible/111/EZK.35.NIV
+  - Ezekiel 36 @defer(2020-11-29) @due(2020-11-29)
+    https://www.bible.com/bible/111/EZK.36.NIV
+  - 2 Peter 1 @defer(2020-11-29) @due(2020-11-29)
+    https://www.bible.com/bible/111/2PE.1.NIV
+  - Ezekiel 37 @defer(2020-11-30) @due(2020-11-30)
+    https://www.bible.com/bible/111/EZK.37.NIV
+  - Ezekiel 38 @defer(2020-11-30) @due(2020-11-30)
+    https://www.bible.com/bible/111/EZK.38.NIV
+  - Ezekiel 39 @defer(2020-11-30) @due(2020-11-30)
+    https://www.bible.com/bible/111/EZK.39.NIV
+  - 2 Peter 2 @defer(2020-11-30) @due(2020-11-30)
+    https://www.bible.com/bible/111/2PE.2.NIV
+  - Ezekiel 40 @defer(2020-12-01) @due(2020-12-01)
+    https://www.bible.com/bible/111/EZK.40.NIV
+  - Ezekiel 41 @defer(2020-12-01) @due(2020-12-01)
+    https://www.bible.com/bible/111/EZK.41.NIV
+  - 2 Peter 3 @defer(2020-12-01) @due(2020-12-01)
+    https://www.bible.com/bible/111/2PE.3.NIV
+  - Ezekiel 42 @defer(2020-12-02) @due(2020-12-02)
+    https://www.bible.com/bible/111/EZK.42.NIV
+  - Ezekiel 43 @defer(2020-12-02) @due(2020-12-02)
+    https://www.bible.com/bible/111/EZK.43.NIV
+  - Ezekiel 44 @defer(2020-12-02) @due(2020-12-02)
+    https://www.bible.com/bible/111/EZK.44.NIV
+  - 1 John 1 @defer(2020-12-02) @due(2020-12-02)
+    https://www.bible.com/bible/111/1JN.1.NIV
+  - Ezekiel 45 @defer(2020-12-03) @due(2020-12-03)
+    https://www.bible.com/bible/111/EZK.45.NIV
+  - Ezekiel 46 @defer(2020-12-03) @due(2020-12-03)
+    https://www.bible.com/bible/111/EZK.46.NIV
+  - 1 John 2 @defer(2020-12-03) @due(2020-12-03)
+    https://www.bible.com/bible/111/1JN.2.NIV
+  - Ezekiel 47 @defer(2020-12-04) @due(2020-12-04)
+    https://www.bible.com/bible/111/EZK.47.NIV
+  - Ezekiel 48 @defer(2020-12-04) @due(2020-12-04)
+    https://www.bible.com/bible/111/EZK.48.NIV
+  - 1 John 3 @defer(2020-12-04) @due(2020-12-04)
+    https://www.bible.com/bible/111/1JN.3.NIV
+  - Daniel 1 @defer(2020-12-05) @due(2020-12-05)
+    https://www.bible.com/bible/111/DAN.1.NIV
+  - Daniel 2 @defer(2020-12-05) @due(2020-12-05)
+    https://www.bible.com/bible/111/DAN.2.NIV
+  - 1 John 4 @defer(2020-12-05) @due(2020-12-05)
+    https://www.bible.com/bible/111/1JN.4.NIV
+  - Daniel 3 @defer(2020-12-06) @due(2020-12-06)
+    https://www.bible.com/bible/111/DAN.3.NIV
+  - Daniel 4 @defer(2020-12-06) @due(2020-12-06)
+    https://www.bible.com/bible/111/DAN.4.NIV
+  - 1 John 5 @defer(2020-12-06) @due(2020-12-06)
+    https://www.bible.com/bible/111/1JN.5.NIV
+  - Daniel 5 @defer(2020-12-07) @due(2020-12-07)
+    https://www.bible.com/bible/111/DAN.5.NIV
+  - Daniel 6 @defer(2020-12-07) @due(2020-12-07)
+    https://www.bible.com/bible/111/DAN.6.NIV
+  - Daniel 7 @defer(2020-12-07) @due(2020-12-07)
+    https://www.bible.com/bible/111/DAN.7.NIV
+  - 2 John 1 @defer(2020-12-07) @due(2020-12-07)
+    https://www.bible.com/bible/111/2JN.1.NIV
+  - Daniel 8 @defer(2020-12-08) @due(2020-12-08)
+    https://www.bible.com/bible/111/DAN.8.NIV
+  - Daniel 9 @defer(2020-12-08) @due(2020-12-08)
+    https://www.bible.com/bible/111/DAN.9.NIV
+  - Daniel 10 @defer(2020-12-08) @due(2020-12-08)
+    https://www.bible.com/bible/111/DAN.10.NIV
+  - 3 John 1 @defer(2020-12-08) @due(2020-12-08)
+    https://www.bible.com/bible/111/3JN.1.NIV
+  - Daniel 11 @defer(2020-12-09) @due(2020-12-09)
+    https://www.bible.com/bible/111/DAN.11.NIV
+  - Daniel 12 @defer(2020-12-09) @due(2020-12-09)
+    https://www.bible.com/bible/111/DAN.12.NIV
+  - Jude @defer(2020-12-09) @due(2020-12-09)
+    https://www.bible.com/bible/111/JUD.1.NIV
+  - Hosea 1 @defer(2020-12-10) @due(2020-12-10)
+    https://www.bible.com/bible/111/HOS.1.NIV
+  - Hosea 2 @defer(2020-12-10) @due(2020-12-10)
+    https://www.bible.com/bible/111/HOS.2.NIV
+  - Hosea 3 @defer(2020-12-10) @due(2020-12-10)
+    https://www.bible.com/bible/111/HOS.3.NIV
+  - Hosea 4 @defer(2020-12-10) @due(2020-12-10)
+    https://www.bible.com/bible/111/HOS.4.NIV
+  - Revelation 1 @defer(2020-12-10) @due(2020-12-10)
+    https://www.bible.com/bible/111/REV.1.NIV
+  - Hosea 5 @defer(2020-12-11) @due(2020-12-11)
+    https://www.bible.com/bible/111/HOS.5.NIV
+  - Hosea 6 @defer(2020-12-11) @due(2020-12-11)
+    https://www.bible.com/bible/111/HOS.6.NIV
+  - Hosea 7 @defer(2020-12-11) @due(2020-12-11)
+    https://www.bible.com/bible/111/HOS.7.NIV
+  - Hosea 8 @defer(2020-12-11) @due(2020-12-11)
+    https://www.bible.com/bible/111/HOS.8.NIV
+  - Revelation 2 @defer(2020-12-11) @due(2020-12-11)
+    https://www.bible.com/bible/111/REV.2.NIV
+  - Hosea 9 @defer(2020-12-12) @due(2020-12-12)
+    https://www.bible.com/bible/111/HOS.9.NIV
+  - Hosea 10 @defer(2020-12-12) @due(2020-12-12)
+    https://www.bible.com/bible/111/HOS.10.NIV
+  - Hosea 11 @defer(2020-12-12) @due(2020-12-12)
+    https://www.bible.com/bible/111/HOS.11.NIV
+  - Revelation 3 @defer(2020-12-12) @due(2020-12-12)
+    https://www.bible.com/bible/111/REV.3.NIV
+  - Hosea 12 @defer(2020-12-13) @due(2020-12-13)
+    https://www.bible.com/bible/111/HOS.12.NIV
+  - Hosea 13 @defer(2020-12-13) @due(2020-12-13)
+    https://www.bible.com/bible/111/HOS.13.NIV
+  - Hosea 14 @defer(2020-12-13) @due(2020-12-13)
+    https://www.bible.com/bible/111/HOS.14.NIV
+  - Revelation 4 @defer(2020-12-13) @due(2020-12-13)
+    https://www.bible.com/bible/111/REV.4.NIV
+  - Joel @defer(2020-12-14) @due(2020-12-14)
+    https://www.bible.com/bible/111/JOL.1.NIV
+  - Revelation 5 @defer(2020-12-14) @due(2020-12-14)
+    https://www.bible.com/bible/111/REV.5.NIV
+  - Amos 1 @defer(2020-12-15) @due(2020-12-15)
+    https://www.bible.com/bible/111/AMO.1.NIV
+  - Amos 2 @defer(2020-12-15) @due(2020-12-15)
+    https://www.bible.com/bible/111/AMO.2.NIV
+  - Amos 3 @defer(2020-12-15) @due(2020-12-15)
+    https://www.bible.com/bible/111/AMO.3.NIV
+  - Revelation 6 @defer(2020-12-15) @due(2020-12-15)
+    https://www.bible.com/bible/111/REV.6.NIV
+  - Amos 4 @defer(2020-12-16) @due(2020-12-16)
+    https://www.bible.com/bible/111/AMO.4.NIV
+  - Amos 5 @defer(2020-12-16) @due(2020-12-16)
+    https://www.bible.com/bible/111/AMO.5.NIV
+  - Amos 6 @defer(2020-12-16) @due(2020-12-16)
+    https://www.bible.com/bible/111/AMO.6.NIV
+  - Revelation 7 @defer(2020-12-16) @due(2020-12-16)
+    https://www.bible.com/bible/111/REV.7.NIV
+  - Amos 7 @defer(2020-12-17) @due(2020-12-17)
+    https://www.bible.com/bible/111/AMO.7.NIV
+  - Amos 8 @defer(2020-12-17) @due(2020-12-17)
+    https://www.bible.com/bible/111/AMO.8.NIV
+  - Amos 9 @defer(2020-12-17) @due(2020-12-17)
+    https://www.bible.com/bible/111/AMO.9.NIV
+  - Revelation 8 @defer(2020-12-17) @due(2020-12-17)
+    https://www.bible.com/bible/111/REV.8.NIV
+  - Obadiah @defer(2020-12-18) @due(2020-12-18)
+    https://www.bible.com/bible/111/OBA.1.NIV
+  - Revelation 9 @defer(2020-12-18) @due(2020-12-18)
+    https://www.bible.com/bible/111/REV.9.NIV
+  - Jonah @defer(2020-12-19) @due(2020-12-19)
+    https://www.bible.com/bible/111/JON.1.NIV
+  - Revelation 10 @defer(2020-12-19) @due(2020-12-19)
+    https://www.bible.com/bible/111/REV.10.NIV
+  - Micah 1 @defer(2020-12-20) @due(2020-12-20)
+    https://www.bible.com/bible/111/MIC.1.NIV
+  - Micah 2 @defer(2020-12-20) @due(2020-12-20)
+    https://www.bible.com/bible/111/MIC.2.NIV
+  - Micah 3 @defer(2020-12-20) @due(2020-12-20)
+    https://www.bible.com/bible/111/MIC.3.NIV
+  - Revelation 11 @defer(2020-12-20) @due(2020-12-20)
+    https://www.bible.com/bible/111/REV.11.NIV
+  - Micah 4 @defer(2020-12-21) @due(2020-12-21)
+    https://www.bible.com/bible/111/MIC.4.NIV
+  - Micah 5 @defer(2020-12-21) @due(2020-12-21)
+    https://www.bible.com/bible/111/MIC.5.NIV
+  - Revelation 12 @defer(2020-12-21) @due(2020-12-21)
+    https://www.bible.com/bible/111/REV.12.NIV
+  - Micah 6 @defer(2020-12-22) @due(2020-12-22)
+    https://www.bible.com/bible/111/MIC.6.NIV
+  - Micah 7 @defer(2020-12-22) @due(2020-12-22)
+    https://www.bible.com/bible/111/MIC.7.NIV
+  - Revelation 13 @defer(2020-12-22) @due(2020-12-22)
+    https://www.bible.com/bible/111/REV.13.NIV
+  - Nahum @defer(2020-12-23) @due(2020-12-23)
+    https://www.bible.com/bible/111/NAM.1.NIV
+  - Revelation 14 @defer(2020-12-23) @due(2020-12-23)
+    https://www.bible.com/bible/111/REV.14.NIV
+  - Habakkuk @defer(2020-12-24) @due(2020-12-24)
+    https://www.bible.com/bible/111/HAB.1.NIV
+  - Revelation 15 @defer(2020-12-24) @due(2020-12-24)
+    https://www.bible.com/bible/111/REV.15.NIV
+  - Zephaniah @defer(2020-12-25) @due(2020-12-25)
+    https://www.bible.com/bible/111/ZEP.1.NIV
+  - Revelation 16 @defer(2020-12-25) @due(2020-12-25)
+    https://www.bible.com/bible/111/REV.16.NIV
+  - Haggai @defer(2020-12-26) @due(2020-12-26)
+    https://www.bible.com/bible/111/HAG.1.NIV
+  - Revelation 17 @defer(2020-12-26) @due(2020-12-26)
+    https://www.bible.com/bible/111/REV.17.NIV
+  - Zechariah 1 @defer(2020-12-27) @due(2020-12-27)
+    https://www.bible.com/bible/111/ZEC.1.NIV
+  - Zechariah 2 @defer(2020-12-27) @due(2020-12-27)
+    https://www.bible.com/bible/111/ZEC.2.NIV
+  - Zechariah 3 @defer(2020-12-27) @due(2020-12-27)
+    https://www.bible.com/bible/111/ZEC.3.NIV
+  - Zechariah 4 @defer(2020-12-27) @due(2020-12-27)
+    https://www.bible.com/bible/111/ZEC.4.NIV
+  - Revelation 18 @defer(2020-12-27) @due(2020-12-27)
+    https://www.bible.com/bible/111/REV.18.NIV
+  - Zechariah 5 @defer(2020-12-28) @due(2020-12-28)
+    https://www.bible.com/bible/111/ZEC.5.NIV
+  - Zechariah 6 @defer(2020-12-28) @due(2020-12-28)
+    https://www.bible.com/bible/111/ZEC.6.NIV
+  - Zechariah 7 @defer(2020-12-28) @due(2020-12-28)
+    https://www.bible.com/bible/111/ZEC.7.NIV
+  - Zechariah 8 @defer(2020-12-28) @due(2020-12-28)
+    https://www.bible.com/bible/111/ZEC.8.NIV
+  - Revelation 19 @defer(2020-12-28) @due(2020-12-28)
+    https://www.bible.com/bible/111/REV.19.NIV
+  - Zechariah 9 @defer(2020-12-29) @due(2020-12-29)
+    https://www.bible.com/bible/111/ZEC.9.NIV
+  - Zechariah 10 @defer(2020-12-29) @due(2020-12-29)
+    https://www.bible.com/bible/111/ZEC.10.NIV
+  - Zechariah 11 @defer(2020-12-29) @due(2020-12-29)
+    https://www.bible.com/bible/111/ZEC.11.NIV
+  - Zechariah 12 @defer(2020-12-29) @due(2020-12-29)
+    https://www.bible.com/bible/111/ZEC.12.NIV
+  - Revelation 20 @defer(2020-12-29) @due(2020-12-29)
+    https://www.bible.com/bible/111/REV.20.NIV
+  - Zechariah 13 @defer(2020-12-30) @due(2020-12-30)
+    https://www.bible.com/bible/111/ZEC.13.NIV
+  - Zechariah 14 @defer(2020-12-30) @due(2020-12-30)
+    https://www.bible.com/bible/111/ZEC.14.NIV
+  - Revelation 21 @defer(2020-12-30) @due(2020-12-30)
+    https://www.bible.com/bible/111/REV.21.NIV
+  - Malachi 1 @defer(2020-12-31) @due(2020-12-31)
+    https://www.bible.com/bible/111/MAL.1.NIV
+  - Malachi 2 @defer(2020-12-31) @due(2020-12-31)
+    https://www.bible.com/bible/111/MAL.2.NIV
+  - Malachi 3 @defer(2020-12-31) @due(2020-12-31)
+    https://www.bible.com/bible/111/MAL.3.NIV
+  - Malachi 4 @defer(2020-12-31) @due(2020-12-31)
+    https://www.bible.com/bible/111/MAL.4.NIV
+  - Revelation 22 @defer(2020-12-31) @due(2020-12-31)
+    https://www.bible.com/bible/111/REV.22.NIV
