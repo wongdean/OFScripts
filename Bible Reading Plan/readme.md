@@ -4,4 +4,4 @@ This is a modified version of [Joe Buhlig's Bible Reading Plan](https://raw.gith
 
 Copy and past the taskpaper file into OmniFocus.
 
-If you want to adjust the dates, the easies way I've found is either with multiple cursors in Sublime Text or with a Find and Replace for the year.
+There is also a file for readings for one year of the Revised Common Lectionary, which is a regular, three-year rotation.
