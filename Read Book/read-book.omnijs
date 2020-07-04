@@ -1,0 +1,59 @@
+/*{
+    "author": "Adam Garrett-Harris",
+    "targets": ["omnifocus"],
+    "type": "action",
+    "identifier": "com.garrett-harris.adam.read-book",
+    "version": "0.1",
+    "description": "A plug-in that makes a new project with tasks to read certain pages everyday in order to complete by a certain date.",
+    "label": "Read Book",
+    "mediumLabel": "Read Book",
+    "paletteLabel": "Read Book",
+}*/
+
+(() => {
+  const tags = ["📘 Book"];
+
+  var action = new PlugIn.Action(async function (selection) {
+    const inputForm = new Form();
+    inputForm.addField(new Form.Field.String("title", "Title", null));
+    inputForm.addField(new Form.Field.Date("start", "Start Date", null));
+    inputForm.addField(new Form.Field.Date("end", "End Date", null));
+    inputForm.addField(new Form.Field.String("pages", "Number of Pages", null));
+
+    const book = await inputForm
+      .show("Enter the name of the book:", "Continue")
+      .then((formObject) => formObject.values);
+
+    book.pages = Number(book.pages);
+
+    const getDaysArray = function (s, e) {
+      for (var a = [], d = new Date(s); d <= e; d.setDate(d.getDate() + 1)) {
+        a.push(new Date(d));
+      }
+      return a;
+    };
+    const dayList = getDaysArray(book.start, book.end);
+
+    const project = new Project(`Read ${book.title}`);
+    project.sequential = true;
+
+    const pagesPerDay = Math.ceil(book.pages / dayList.length);
+    dayList.forEach((day, i) => {
+      const start = i * pagesPerDay + 1;
+      const possibleEnd = start + pagesPerDay - 1;
+      const end = possibleEnd > book.pages ? book.pages : possibleEnd;
+      const task = new Task(
+        `Read pages ${start}-${end} of ${book.title}`,
+        project
+      );
+      task.dueDate = day;
+      tags.forEach((tag) => {
+        task.addTag(flattenedTags.filter((t) => t.name === tag)[0]);
+      });
+    });
+
+    URL.fromString(`omnifocus:///task/${project.id.primaryKey}`).open();
+  });
+
+  return action;
+})();
