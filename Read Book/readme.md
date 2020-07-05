@@ -10,6 +10,8 @@ Then it creates a new project with the tags specified in the script, and it take
 
 ## Install
 
+[Download](https://raw.githubusercontent.com/agarrharr/OFScripts/master/Read%20Book/read-book.omnijs)
+
 To install this plug-in:
 
 1) Press “OK” to download the ZIP archive containing the plug-in.
