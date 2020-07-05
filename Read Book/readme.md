@@ -1,6 +1,11 @@
 # Read Book
 
+It asks you the name of the book, the start date, the end date, and the number of pages.
+
 ![The prompt of the script](read-book.png)
+
+Then it creates a new project with the tags specified in the script, and it takes you to that project.
+
 ![The project that was created](read-book-project.png)
 
 ## Install
