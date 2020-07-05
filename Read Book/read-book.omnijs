@@ -21,7 +21,7 @@
     inputForm.addField(new Form.Field.String("pages", "Number of Pages", null));
 
     const book = await inputForm
-      .show("Enter the name of the book:", "Continue")
+      .show("Book information:", "Continue")
       .then((formObject) => formObject.values);
 
     book.pages = Number(book.pages);
