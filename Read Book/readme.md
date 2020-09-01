@@ -12,7 +12,7 @@ Then it creates a new project with the tags specified in the script, and it take
 
 To install this plug-in:
 
-1) [Download the `.omnijs` file](https://raw.githubusercontent.com/agarrharr/OFScripts/master/Read%20Book/read-book.omnijs)
+1) [Download the `.omnifocusjs` file](https://raw.githubusercontent.com/agarrharr/OFScripts/master/Read%20Book/ReadBook.omnifocusjs)
 
 2) In the Files app (iOS/iPadOS) or the Finder (macOS), unpack the downloaded ZIP archive to extract the plug-in file.
 
@@ -22,7 +22,7 @@ To install this plug-in:
 
 ## Customize
 
-You can customize the tags that are applied by changing the code to include as many tags you want:
+You can customize the tags that are applied by changing the code in `readBook.js` to include as many tags you want:
 
 ```js
 const tags = ["📘 Book", "important"];

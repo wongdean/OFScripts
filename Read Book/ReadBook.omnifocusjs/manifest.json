@@ -1,0 +1,11 @@
+{
+  "author": "Adam Garrett-Harris",
+  "identifier": "com.garrett-harris.adam.read-book",
+  "version": "0.1",
+  "description": "A plug-in to help you read books on a deadline.",
+  "actions": [
+    { "image": "book.png", "identifier": "readBook" },
+    { "image": "catchMeUp.png", "identifier": "catchMeUp" }
+  ],
+  "defaultLocale": "en"
+}

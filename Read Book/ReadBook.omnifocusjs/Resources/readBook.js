@@ -1,15 +1,3 @@
-/*{
-    "author": "Adam Garrett-Harris",
-    "targets": ["omnifocus"],
-    "type": "action",
-    "identifier": "com.garrett-harris.adam.read-book",
-    "version": "0.1",
-    "description": "A plug-in that makes a new project with tasks to read certain pages everyday in order to complete by a certain date.",
-    "label": "Read Book",
-    "mediumLabel": "Read Book",
-    "paletteLabel": "Read Book",
-}*/
-
 (() => {
   const tags = ["📘 Book"];
 
