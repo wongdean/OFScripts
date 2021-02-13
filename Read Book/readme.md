@@ -1,6 +1,6 @@
 # Read Book
 
-This is a set of 2 tasks to help me read on a a schedule in OmniFocus. It uses [Omni Automation](https://omniautomation.com) and can run on macOS, iOS, and iPadOS.
+This is a set of 2 tasks to help me read on a a schedule in OmniFocus. It uses [Omni-Automation](https://omni-automation.com) and can run on macOS, iOS, and iPadOS.
 
 ## Install
 
