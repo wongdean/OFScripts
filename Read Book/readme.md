@@ -56,6 +56,6 @@ Tap on Catch Me Up (if you want, you can add it to your favorites by scrolling a
 
 Fill out the form. Start date defaults to today.
 
-![Share sheet(catch-me-up-4.jpg)
+![Share sheet](catch-me-up-4.jpg)
 
 Then it will update the tasks.
