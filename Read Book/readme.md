@@ -12,13 +12,13 @@ Then it creates a new project with the tags specified in the script, and it take
 
 To install this plug-in:
 
-1) [Download the `.omnifocusjs` file](https://raw.githubusercontent.com/agarrharr/OFScripts/master/Read%20Book/ReadBook.omnifocusjs)
+1) [Download the `.omnifocusjs` zip file](https://raw.githubusercontent.com/agarrharr/OFScripts/master/Read%20Book/ReadBook.zip)
 
 2) In the Files app (iOS/iPadOS) or the Finder (macOS), unpack the downloaded ZIP archive to extract the plug-in file.
 
 3) On macOS, select “Plug-Ins…” from the Automation menu, and drag the unpacked plug-in file into the forthcoming “Plug-Ins” OmniFocus window.
 
-4) On iOS or iPadOS, long-press the plug-in file to summon the contextual menu. Select the “Share” option and in the forthcoming dialog scroll the app icons at the top to the one titled “More” and tap it. In the Apps sheet scroll to the option titled “Open in OmniFocus” and tap it.
+4) On iOS or iPadOS, tap the plug-in file to summon the contextual menu. It will open OmniFocus and install the plug-in.
 
 ## Customize
 
