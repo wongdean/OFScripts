@@ -6,7 +6,7 @@ This is a set of 2 tasks to help me read on a a schedule in OmniFocus. It uses [
 
 To install this plug-in:
 
-1) [Download the `.omnifocusjs` zip file](https://raw.githubusercontent.com/agarrharr/OFScripts/master/Read%20Book/ReadBook.zip)
+1) [Download the `.omnifocusjs` zip file](https://github.com/agarrharr/OFScripts/raw/master/Read%20Book/ReadBook.omnifocusjs.zip)
 
 2) In the Files app (iOS/iPadOS) or the Finder (macOS), unpack the downloaded ZIP archive to extract the plug-in file.
 
